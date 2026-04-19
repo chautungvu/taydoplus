@@ -646,6 +646,12 @@ http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid
 http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226381/1.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",咪咕视频 EPL FHD 2
 http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Now Sports EPL 1 FHD
+https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Now Sports EPL 2 FHD
+https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Now Sports EPL 3 FHD
+https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Fox Sports

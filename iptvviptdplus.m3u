@@ -643,7 +643,7 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",TVRI Sport (giật)
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Canal+ Sport 3
-https://chevy.vovlacosa.sbs/proxy/ddy6/premium488/mono.m3u8
+https://chevy.vovlacosa.sbs/proxy/ddy6/premium488/mono.css/ddy6/premium488/mono.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Fox Sports
@@ -671,12 +671,12 @@ https://stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZy
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",NBC Sports Now
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Bein Sports 5 HD
-https://chevy.vovlacosa.sbs/proxy/dokko1/premium95/mono.m3u8
+https://chevy.vovlacosa.sbs/proxy/dokko1/premium95/mono.css/dokko1/premium95/mono.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Astro Premier League
-https://chevy.vovlacosa.sbs/proxy/zeko/premium125/mono.m3u8
+https://chevy.vovlacosa.sbs/proxy/zeko/premium125/mono.css/zeko/premium125/mono.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Astro Grandstand
-https://chevy.vovlacosa.sbs/proxy/zeko/premium123/mono.m3u8
+https://chevy.vovlacosa.sbs/proxy/zeko/premium123/mono.css/zeko/premium123/mono.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Bein Sports 3 HD
-https://chevy.vovlacosa.sbs/proxy/dokko1/premium95/mono.m3u8
+https://chevy.vovlacosa.sbs/proxy/zeko/premium123/mono.css/zeko/premium123/mono.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Bein Sports 3 Turkey HD
-https://chevy.vovlacosa.sbs/proxy/zeko/premium64/mono.m3u8
+https://chevy.vovlacosa.sbs/proxy/zeko/premium64/mono.css/zeko/premium64/mono.m3u8

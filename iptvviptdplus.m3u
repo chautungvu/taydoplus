@@ -638,10 +638,8 @@ https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",TNT Sports 1
 http://max4kk-us-rkdyiptv.wasmer.app/play.php?id=8941
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Bein Sports Extra
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",TVRI Sport (giật)
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Nova Sports 2
+https://chevy.vovlacosa.sbs/proxy/dokko1/premium632/mono.css/dokko1/premium632/mono.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Canal+ Sport 3
 https://chevy.vovlacosa.sbs/proxy/ddy6/premium488/mono.css/ddy6/premium488/mono.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",CCTV16
@@ -650,8 +648,8 @@ http://74.91.26.218:82/live/cctv16hd.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Fox Sports 3 Latin America
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Sky Sports
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Sky Sports Tennis HD
+https://chevy.vovlacosa.sbs/proxy/wind/premium46/mono.css/wind/premium46/mono.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Premiere 1 FHD
 https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Premiere 2 FHD
@@ -680,3 +678,5 @@ https://chevy.vovlacosa.sbs/proxy/zeko/premium123/mono.css/zeko/premium123/mono.
 https://chevy.vovlacosa.sbs/proxy/dokko1/premium93/mono.css/dokko1/premium93/mono.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Bein Sports 1 Turkey HD
 https://chevy.vovlacosa.sbs/proxy/zeko/premium62/mono.css/zeko/premium62/mono.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",USA Network
+https://chevy.vovlacosa.sbs/proxy/s7s/wiki027/mono.css/s7s/wiki027/mono.m3u8

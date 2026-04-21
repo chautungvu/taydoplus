@@ -465,6 +465,8 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53b26f904ae03a20b56477cfb9c5dca2:0c64ccfb978e7390bd33344075492aec
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+#EXTINF:-1 group-title="Kênh quốc tế",Adult Swim Thử nghiệm HD
+https://chevy.soyspace.cyou/proxy/ddy6/premium295/mono.css/ddy6/premium295/mono.m3u8
 #EXTINF:-1 group-title="Kênh hướng dẫn",Hướng dẫn khách hàng
 https://www.dropbox.com/scl/fi/japlg8jpuin9y7i6v07oi/hdkh.mp4?rlkey=4xrh0j3wkbilbjq10aqhrmcdx&st=gl27n36j&raw=1
 #EXTINF:-1 group-title="Kênh sự kiện VTVprime",VTVprime1
@@ -646,20 +648,22 @@ http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid
 http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226381/1.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",咪咕视频 EPL FHD 2
 http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Now Sports EPL 1 FHD
-https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Now Sports EPL 2 FHD
-https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Now Sports EPL 3 FHD
-https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Astro Premier League FHD 2
+http://103.107.198.46:8080/live/ZZA21216/zxe36880/157.ts
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Canal+ Sports
+https://chevy.soyspace.cyou/proxy/wind/premium122/mono.css/wind/premium122/mono.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Canal+ Sports 1 Afrique
+https://chevy.soyspace.cyou/proxy/ddy6/premium486/mono.css/ddy6/premium486/mono.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Astro EPL HD
+https://chevy.soyspace.cyou/proxy/wind/premium122/mono.css/wind/premium122/mono.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",BEIN Sports 3 HD
+http://103.107.198.46:8080/live/ZZA21216/zxe36880/162.ts
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Fox Sports
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Fox Sports 3 Latin America
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Sky Sports Tennis HD
-https://chevy.vovlacosa.sbs/proxy/wind/premium46/mono.css/wind/premium46/mono.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Fox+
+http://nor2live.win:80/livehttpplay?channel_id=16515
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",TNT Sports Premium HD
+http://nor2live.win:80/livehttpplay?channel_id=16512
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Premiere 1 FHD
 https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Premiere 2 FHD
@@ -676,5 +680,3 @@ https://stm.sinalmycn.com/20015/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZy
 https://stm.sinalmycn.com/20018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Premiere 8 FHD
 https://stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
-#EXTINF:-1 group-title="Kênh 4K thử nghiệm",CCTV4K
-http://223.95.198.3:8000/hls/18/index.m3u8

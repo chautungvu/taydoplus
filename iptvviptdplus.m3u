@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
-#EXTM3U
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV",VTV1 HD DB
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV",VTV2 HD

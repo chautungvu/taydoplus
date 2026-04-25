@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV",VTV1 HD DB
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV",VTV2 HD
@@ -14,7 +15,7 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="Kênh VTV",VTV8 HD
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Kênh VTV",VTV9 HD
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_4200000.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="Kênh VTV",VTV10 HD
 https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/VTV_can_tho-avc1_3800000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Kênh VTV",VTV5 TNB
@@ -83,31 +84,31 @@ https://vietanhtv.id.vn/tv360/187/index.m3u8
 https://vietanhtv.id.vn/tv360/179/index.m3u8
 #EXTINF:-1 tvg-id="onlife" group-title="Kênh VTVCab",On Life
 https://vietanhtv.id.vn/tv360/188/index.m3u8
-#EXTINF:-1 tvg-id="onsports" group-title="Kênh VTVCab",Thể Thao TV HD MPD
+#EXTINF:-1 tvg-id="onsports" group-title="Kênh VTVCab",Thể Thao TV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcda1c0511c347f8b89c1821600426ac:dbc1d4d9244f8e7d01d999d4d9f53855
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
-#EXTINF:-1 tvg-id="onsportsplus" group-title="Kênh VTVCab",Thể Thao Plus HD MPD
+#EXTINF:-1 tvg-id="onsportsplus" group-title="Kênh VTVCab",Thể Thao Plus HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
 https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
-#EXTINF:-1 tvg-id="onfootball" group-title="Kênh VTVCab",Bóng Đá TV HD MPD
+#EXTINF:-1 tvg-id="onfootball" group-title="Kênh VTVCab",Bóng Đá TV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
 https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
-#EXTINF:-1 tvg-id="onsportsnews" group-title="Kênh VTVCab",Thể Thao Tin Tức HD MPD
+#EXTINF:-1 tvg-id="onsportsnews" group-title="Kênh VTVCab",Thể Thao Tin Tức HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cafb6e60c1504dfc858fd3dddc6fd20c:92061ffeb13f47c4d8879316dbc9521d
 https://livevlisctcdnw.seenow.vn/mean/THETHAO_TINTUC_HD/manifest.mpd
-#EXTINF:-1 tvg-id="ongolf" group-title="Kênh VTVCab",Thể Thao Golf HD MPD
+#EXTINF:-1 tvg-id="ongolf" group-title="Kênh VTVCab",Thể Thao Golf HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -146,7 +147,7 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="Kênh SCTV",SCTV8
 https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
-#EXTINF:-1 tvg-id="sctv9hd" group-title="Kênh SCTV",SCTV9 MPD
+#EXTINF:-1 tvg-id="sctv9hd" group-title="Kênh SCTV",SCTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -160,7 +161,7 @@ https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" group-title="Kênh SCTV",SCTV14
 https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
-#EXTINF:-1 tvg-id="sctv15hd" group-title="Kênh SCTV",SCTV15 MPD
+#EXTINF:-1 tvg-id="sctv15hd" group-title="Kênh SCTV",SCTV15
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -168,7 +169,7 @@ https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
 https://livevlisctcdnw.seenow.vn/mean/SCTV15HD/manifest.mpd
 #EXTINF:-1 tvg-id="sctv16hd" group-title="Kênh SCTV",SCTV16
 https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
-#EXTINF:-1 tvg-id="sctv17hd" group-title="Kênh SCTV",SCTV17 MPD
+#EXTINF:-1 tvg-id="sctv17hd" group-title="Kênh SCTV",SCTV17
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -180,7 +181,7 @@ https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
 #EXTINF:-1 tvg-id="sctv20hd" group-title="Kênh SCTV",SCTV20
 https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
-#EXTINF:-1 tvg-id="sctv21hd" group-title="Kênh SCTV",SCTV21
+#EXTINF:-1 group-title="Kênh SCTV",SCTV21
 https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
 #EXTINF:-1 tvg-id="sctv22hd" group-title="Kênh SCTV",SCTV22
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
@@ -207,6 +208,8 @@ https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="lamdong2" group-title="Kênh địa phương",LTV2
 https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
 #ttps://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh địa phương",LTV3
+https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="Kênh địa phương",Cà Mau
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
 #http://tv.ctvcamau.vn/live/tv/tv.m3u8
@@ -636,49 +639,19 @@ https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Kênh sự kiện FPT Play",FPT Event 2
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",咪咕4k-1 EPL 4K
-http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",咪咕4k-2 EPL 4K
-http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",咪咕视频 EPL FHD 1
-http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226381/1.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",咪咕视频 EPL FHD 2
-http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",NOW Sports EPL 1 FHD
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",NOW Sports EPL 2 FHD
-https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",NOW Sports EPL 3 FHD
 https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Astro Premier League FHD 2
-http://103.107.198.46:8080/live/ZZA21216/zxe36880/157.ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",BEIN Sports 3 HD
-http://103.107.198.46:8080/live/ZZA21216/zxe36880/162.ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",CCTV16
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",CCTV16 FHD
 http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Fox+
-http://nor2live.win:80/livehttpplay?channel_id=16515
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",TNT Sports Premium HD
 http://nor2live.win:80/livehttpplay?channel_id=16512
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Premiere 1 FHD
-https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Premiere 2 FHD
-https://stm.sinalmycn.com/20003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Premiere 3 FHD
-https://stm.sinalmycn.com/20006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Premiere 4 FHD
-https://stm.sinalmycn.com/20009/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Premiere 5 FHD
-https://stm.sinalmycn.com/20012/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Premiere 6 FHD
-https://stm.sinalmycn.com/20015/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Premiere 7 FHD
-https://stm.sinalmycn.com/20018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Premiere 8 FHD
-https://stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Sky Sports Main Event
 http://iptv-premium-ott.com:8789/BSM73928/OSF19372/215921
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Sky Sports Premier League
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Sky Sports Premier League FHD
 http://iptv-premium-ott.com:8789/BSM73928/OSF19372/215919
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Sky Sports Football
 http://iptv-premium-ott.com:8789/BSM73928/OSF19372/215917
@@ -686,3 +659,29 @@ http://iptv-premium-ott.com:8789/BSM73928/OSF19372/215917
 http://iptv-premium-ott.com:8789/BSM73928/OSF19372/215905
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Sky Sports F1
 http://azertvpro.com:8080/mehmet3976/SjwbU7dLzU43/51018
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",BEIN Sports 3 HD
+http://103.107.198.46:8080/live/ZZA21216/zxe36880/162.ts
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",EPL 4K China 1
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",EPL 4K China 2
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",EPL 4K China 3
+http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226381/1.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",EPL 4K China 4
+http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Polsat Sport Premium 1
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7304/index.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Polsat Sport 1 FHD
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7296/index.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Polsat Sport 2 FHD
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7310/index.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Polsat Sport 3 FHD
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7303/index.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Star Sports 1 FHD
+http://103.229.254.25:7001/play/a0a0/index.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Star Sports 2 FHD
+https://mini.allinonereborn.fun/tata.php?id=11819
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",Star Sports 2
+http://103.229.254.25:7001/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (có EPL)",ESPN
+http://nor1live.win:80/livehttpplay?channel_id=23140

@@ -1,6 +1,9 @@
 #EXTM3U x-tvg-url="https://vnepg.site/epg.xml"
 
 #HỆ THỐNG KÊNH NÀY CHỈ SƯU TẬP NGUỒN, KHÔNG CÓ SỞ HỮU GÌ HẾT.
+#Các nguồn đã chết, vui lòng xoá bỏ list ngay
+#KHÔNG DUY TRÌ NỮA
+
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv1hd", VTV1 HD DB
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #https://www.dropbox.com/scl/fi/w91b9zg1brok0vd9fm28n/nosignal.mp4?rlkey=qzldrpguh8uehd8o8pbgkkwmu&st=lb63q0f0&raw=1

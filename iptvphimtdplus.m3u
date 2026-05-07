@@ -1,5 +1,8 @@
 #EXTM3U
 #PLAYLIST:phim 25/03/2025
+
+#Link đã chết, vui lòng xoá
+
 #EXTINF:-1 tvg-logo="https://baokhanhhoa.vn/file/e7837c02857c8ca30185a8c39b582c03/112025/1_20251116070652.jpg" group-title="PHIM",Mưa đỏ
 https://vip.opstream90.com/20251118/17952_7bf57028/3000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-logo="https://daknong.1cdn.vn/2025/02/06/den-am-hon-review-phim-va-lich-chieu-tai-viet-nam.jpg" group-title="PHIM",Đèn Âm Hồn: Người Con Gái Nam Xương

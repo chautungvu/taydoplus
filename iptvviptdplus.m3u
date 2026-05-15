@@ -21,8 +21,8 @@ https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/VTV5HD-avc1_3800000=
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv8hd", VTV8 HD
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv9hd", VTV9 HD
-https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_4200000.m3u8
+#EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv9hd", VTV9
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv10hd", VTV10 HD
 https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/VTV_can_tho-avc1_3800000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv5hdtnb", VTV5 TNB
@@ -31,20 +31,20 @@ https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vietnamtoday", Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Kênh HTV" tvg-id="htv1", HTV1 HD
-https://vietanhtv.id.vn/htv/2631/index.m3u8
-#EXTINF:-1 group-title="Kênh HTV" tvg-id="htv2hd", HTV2 HD
-https://vietanhtv.id.vn/vieon/vie-channel-htv2-hd/index.m3u8
-#EXTINF:-1 group-title="Kênh HTV" tvg-id="htv3", HTV3 HD
-https://vietanhtv.id.vn/htv/2535/index.m3u8
-#EXTINF:-1 group-title="Kênh HTV" tvg-id="htv4", HTV4 HD
-https://vietanhtv.id.vn/htv/2528/index.m3u8
+#EXTINF:-1 group-title="Kênh HTV" tvg-id="htv1", HTV1
+https://vpsttt.vietanhtv.top/htv/htv.php?id=2631
+#EXTINF:-1 group-title="Kênh HTV" tvg-id="htv2hd", HTV2
+https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd
+#EXTINF:-1 group-title="Kênh HTV" tvg-id="htv3", HTV3
+https://vpsttt.vietanhtv.top/htv/htv.php?id=2535
+#EXTINF:-1 group-title="Kênh HTV" tvg-id="htv4", HTV4
+https://vpsttt.vietanhtv.top/htv/htv.php?id=2528
 #EXTINF:-1 group-title="Kênh HTV" tvg-id="htv5", HTV5 HD
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Kênh HTV" tvg-id="htv7hd", HTV7 HD
-https://vietanhtv.id.vn/htv/256/index.m3u8
+#EXTINF:-1 group-title="Kênh HTV" tvg-id="htv7hd", HTV7
+https://vpsttt.vietanhtv.top/htv/htv.php?id=256
 #EXTINF:-1 group-title="Kênh HTV" tvg-id="htv9hd", HTV9 HD
-https://vietanhtv.id.vn/htv/2667/index.m3u8
+https://vpsttt.vietanhtv.top/htv/htv.php?id=2667
 #EXTINF:-1 group-title="Kênh HTV" tvg-id="htvthethaohd", HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh HTV" tvg-id="htvcthuanviet", HTVC Thuần Việt
@@ -62,40 +62,40 @@ https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh HTV" tvg-id="htvcplushd", HTVC Plus
 https://vietanh18h1.duckdns.org/tv360/132/index.m3u8
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onviegiaitri", ON Vie Giải Trí
-https://vietanhtv.id.vn/vieon/vie-giai-tri-hd/index.m3u8
+https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onphimviet", ON Phim Việt
-https://vietanhtv.id.vn/tv360/175/index.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onmovies", ON Movies
-https://vietanhtv.id.vn/tv360/181/index.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onechannel", EChannel
-https://vietanhtv.id.vn/tv360/182/index.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="ono2tv", O2TV
-https://vietanhtv.id.vn/tv360/136/index.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onbibi", ON BiBi
-https://vietanhtv.id.vn/tv360/178/index.m3u8
-#EXTINF:-1 group-title="Kênh VTVCab" tvg-id="oninfotv", ON Info TV
-https://vietanhtv.id.vn/tv360/189/index.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178
+#EXTINF:-1 group-title="Kênh VTVCab" tvg-id="oninfotv", ON Info
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="oncine", ON Cine
-https://vietanhtv.id.vn/tv360/176/index.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onstyle", ON Style TV
-https://vietanhtv.id.vn/tv360/184/index.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onmusic", ON Music
-https://vietanhtv.id.vn/tv360/185/index.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="ontrending", ON TRENDING
-https://vietanhtv.id.vn/tv360/186/index.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onviedramas", ON Vie Dramas
-https://vietanhtv.id.vn/vieon/vie-dramas-hd/index.m3u8
+https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onvfamily", ON V Family
-https://vietanhtv.id.vn/tv360/187/index.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onkids", On Kids
-https://vietanhtv.id.vn/tv360/179/index.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onlife", On Life
-https://vietanhtv.id.vn/tv360/188/index.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onsports", Thể Thao TV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcda1c0511c347f8b89c1821600426ac:dbc1d4d9244f8e7d01d999d4d9f53855
+#KODIPROP:inputstream.adaptive.license_key=bc5c30fc9f7e43e58887a2d8a7788a38:55bd66990fb745fd895f1aa71393e81f
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onsportsplus", Thể Thao Plus HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -107,7 +107,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
+#KODIPROP:inputstream.adaptive.license_key=5184162e30134a44afa1d591ffc2e736:09b20d5f9bbf41fdb8d3916c409470a8
 https://livevlisctcdnw.seenow.vn/mean/BONGDA_HD/manifest.mpd
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onsportsnews", Thể Thao Tin Tức HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -573,67 +573,67 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT14/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus1
-https://vietanhtv.id.vn/tv360/2554/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/cleankey.php?id=tv360plus1
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2554
 #EXTINF:-1 group-title="Kênh sự kiện TV360" tvg-id="tv360plus2", TV360+2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus2
-https://vietanhtv.id.vn/tv360/1/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/cleankey.php?id=tv360plus2
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=1
 #EXTINF:-1 group-title="Kênh sự kiện TV360" tvg-id="tv360plus3", TV360+3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus3
-https://vietanhtv.id.vn/tv360/148/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/cleankey.php?id=tv360plus3
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=148
 #EXTINF:-1 group-title="Kênh sự kiện TV360" tvg-id="tv360plus4", TV360+4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus4
-https://vietanhtv.id.vn/tv360/2458/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/cleankey.php?id=tv360plus4
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2458
 #EXTINF:-1 group-title="Kênh sự kiện TV360" tvg-id="tv360plus5", TV360+5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus5
-https://vietanhtv.id.vn/tv360/9867/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/cleankey.php?id=tv360plus5
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9867
 #EXTINF:-1 group-title="Kênh sự kiện TV360" tvg-id="tv360plus6", TV360+6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus6
-https://vietanhtv.id.vn/tv360/9868/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/cleankey.php?id=tv360plus6
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9868
 #EXTINF:-1 group-title="Kênh sự kiện TV360" tvg-id="tv360plus7", TV360+7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus7
-https://vietanhtv.id.vn/tv360/9869/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/cleankey.php?id=tv360plus7
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9869
 #EXTINF:-1 group-title="Kênh sự kiện TV360" tvg-id="tv360plus8", TV360+8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus8
-https://vietanhtv.id.vn/tv360/9870/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/cleankey.php?id=tv360plus8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9870
 #EXTINF:-1 group-title="Kênh sự kiện TV360" tvg-id="tv360plus9", TV360+9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vietanhtv.id.vn/tv360/9887/index.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9887
 #EXTINF:-1 group-title="Kênh sự kiện TV360" tvg-id="tv360plus10", TV360+10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vietanhtv.id.vn/tv360/9957/index.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9957
 #EXTINF:-1 group-title="Kênh sự kiện TV360" tvg-id="tv360plus11", TV360+11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vietanhtv.id.vn/tv360/9958/index.m3u8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9958
 #EXTINF:-1 group-title="Kênh sự kiện TV360" tvg-id="tv360plus12", TV360+12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus12
-https://vietanhtv.id.vn/tv360/10001/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/cleankey.php?id=tv360plus12
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10001
 #EXTINF:-1 group-title="Kênh sự kiện TV360" tvg-id="", Live TV360 HD
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/livestream-01/KenhCoBan.m3u8
+https://www.dropbox.com/scl/fi/w91b9zg1brok0vd9fm28n/nosignal.mp4?rlkey=qzldrpguh8uehd8o8pbgkkwmu&st=mwzq68on&raw=1
 #EXTINF:-1 group-title="Kênh sự kiện FPT Play" tvg-id="", FPT Play 1 4K
 https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Kênh sự kiện FPT Play" tvg-id="", FPT Play 2

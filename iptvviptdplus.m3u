@@ -706,4 +706,13 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Diema Sports 2 HD
 http://92.247.25.42:11172/
-
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Sports FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=958758&extension=ts&play_token=MskDtCSrpn
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Foot FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Live 1
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941442&extension=ts&play_token=6sw55uPREH
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Live 2
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941443&extension=ts&play_token=BO2CiGVxUy
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Live 3
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941444&extension=ts&play_token=lWRMv4h4G6

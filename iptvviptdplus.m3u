@@ -479,10 +479,10 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="", Sky News
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2197
-#EXTINF:-1 group-title="Kênh quốc tế" tvg-id="", Star Gold HD
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2172
-#EXTINF:-1 group-title="Kênh quốc tế" tvg-id="", Sony Entertainment Television
-https://restream-live.realiptv.to/MotherOfPins3/8746645/2170
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-id="", Adult Swim 1 HD
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/301841
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-id="", Adult Swim 2 HD
+http://93.157.106.128:8080/F13836/35b68aca/301841
 #EXTINF:-1 group-title="Kênh hướng dẫn" tvg-id="", Hướng dẫn khách hàng
 https://www.dropbox.com/scl/fi/it2p2yjeslquemdjyujvp/hdkh.mp4?rlkey=ag5ep7743rcupbrlp91kbyrpb&st=4bg3kccz&raw=1
 #EXTINF:-1 group-title="Kênh sự kiện VTVprime" tvg-id="", VTVprime1
@@ -658,16 +658,10 @@ https://vips-livecdn.fptplay.net/live/media/event-09/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Kênh sự kiện FPT Play" tvg-id="", FPT Event 2
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", CCTV16 FHD
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", TNT Sports Premium HD
-http://nor2live.win:80/livehttpplay?channel_id=16512
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Sky Sports Main Event 50fps
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/58925.ts
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Sky Sports Premier League DE HD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1030402.ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Nova Sports PL FHD
-http://cdn.tv-rds.workers.dev/NOVASPORTSPL.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", ESPN Brazil
@@ -690,14 +684,6 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/2180
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2179
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Sky Sports Action FHD
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2194
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Polsat Sport Premium 1
-http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7304/index.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Star Sports 1 FHD
-http://103.229.254.25:7001/play/a0a0/index.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Star Sports 2 FHD
-https://mini.allinonereborn.fun/tata.php?id=11819
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Star Sports 2
-http://103.229.254.25:7001/play/a0dc/index.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", ESPN
 http://nor1live.win:80/livehttpplay?channel_id=23140
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Hub Premier 1 HD
@@ -706,13 +692,35 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Diema Sports 2 HD
 http://92.247.25.42:11172/
-#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Sports FHD
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=958758&extension=ts&play_token=MskDtCSrpn
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Sports 1 FHD
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/143
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Sports 2 FHD
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/298742
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Sports 3 FHD
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/291177
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Sports 4 FHD
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/297381
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Sports 5 FHD
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/291178
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Foot FHD
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941405&extension=ts&play_token=ODWyLygMWo
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/297371
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Live 1
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941442&extension=ts&play_token=6sw55uPREH
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/305972
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Live 2
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941443&extension=ts&play_token=BO2CiGVxUy
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/305973
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Live 3
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=941444&extension=ts&play_token=lWRMv4h4G6
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/305974
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Live 4
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/305975
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Live 5
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/305976
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Live 6
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/305977
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Live 7
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/305978
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Live 8
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/305979
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Live 9
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/305980
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Live 10
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/305981

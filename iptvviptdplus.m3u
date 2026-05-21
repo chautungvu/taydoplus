@@ -482,7 +482,7 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/2197
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="", Adult Swim 1 HD
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/301841
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="", Adult Swim 2 HD
-http://93.157.106.128:8080/F13836/35b68aca/301841
+http://premium-pro2.org:80/live/mouham3/6918357/328996.m3u8
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="", Comedy Central SV1
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/1118
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="", Comedy Central SV2
@@ -702,6 +702,8 @@ http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Diema Sports 2 HD
 http://92.247.25.42:11172/
+#EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ UHD
+http://premium-pro2.org:80/live/mouham3/6918357/177690.m3u8
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Sports 1 FHD
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/143
 #EXTINF:-1 group-title="Kênh thể thao quốc tế (EPL)" tvg-id="", Canal+ Sports 2 FHD

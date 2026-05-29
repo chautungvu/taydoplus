@@ -395,13 +395,13 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2025/05/SKY-NEWS-LOGO-TAGLINE.jpg", Sky News
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2197
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://www.billboard.com/wp-content/uploads/2024/06/adult-swim-logo-2024-billboard-1548.jpg", Adult Swim CA HD
-http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/301841
+http://globalgnet.live:80/play/live.php?mac=00:1a:79:00:00:00&stream=1920804&extension=ts
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://www.billboard.com/wp-content/uploads/2024/06/adult-swim-logo-2024-billboard-1548.jpg", Adult Swim West SV1 HD
 http://premium-pro2.org:80/live/mouham3/6918357/328996.m3u8
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://www.billboard.com/wp-content/uploads/2024/06/adult-swim-logo-2024-billboard-1548.jpg", Adult Swim West SV2 HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:00:00:00&stream=855375&extension=ts
-#EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://www.billboard.com/wp-content/uploads/2024/06/adult-swim-logo-2024-billboard-1548.jpg", Adult Swim East HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:00:00:00&stream=855376&extension=ts
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://www.billboard.com/wp-content/uploads/2024/06/adult-swim-logo-2024-billboard-1548.jpg", Adult Swim West SV3 HD
+http://globalgnet.live:80/play/live.php?mac=00:1a:79:00:00:00&stream=1131979&extension=ts
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/W1uRP87qorciWsOaKcRBYpwumSL7RZCf9bIoiY_sJbSJooh9O40JaVtBIN4cFi-ANvsqGdlNNw=s900-c-k-c0x00ffffff-no-rj", Comedy Central SV1
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/1118
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/W1uRP87qorciWsOaKcRBYpwumSL7RZCf9bIoiY_sJbSJooh9O40JaVtBIN4cFi-ANvsqGdlNNw=s900-c-k-c0x00ffffff-no-rj", Comedy Central SV2

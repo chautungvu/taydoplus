@@ -395,13 +395,13 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2025/05/SKY-NEWS-LOGO-TAGLINE.jpg", Sky News
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2197
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://www.billboard.com/wp-content/uploads/2024/06/adult-swim-logo-2024-billboard-1548.jpg", Adult Swim CA HD
-http://globalgnet.live:80/play/live.php?mac=00:1a:79:00:00:00&stream=1920804&extension=ts
+http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/301841
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://www.billboard.com/wp-content/uploads/2024/06/adult-swim-logo-2024-billboard-1548.jpg", Adult Swim West SV1 HD
 http://premium-pro2.org:80/live/mouham3/6918357/328996.m3u8
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://www.billboard.com/wp-content/uploads/2024/06/adult-swim-logo-2024-billboard-1548.jpg", Adult Swim West SV2 HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:00:00:00&stream=855375&extension=ts
-#EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://www.billboard.com/wp-content/uploads/2024/06/adult-swim-logo-2024-billboard-1548.jpg", Adult Swim West SV3 HD
-http://globalgnet.live:80/play/live.php?mac=00:1a:79:00:00:00&stream=1131979&extension=ts
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://www.billboard.com/wp-content/uploads/2024/06/adult-swim-logo-2024-billboard-1548.jpg", Adult Swim East HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:00:00:00&stream=855376&extension=ts
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/W1uRP87qorciWsOaKcRBYpwumSL7RZCf9bIoiY_sJbSJooh9O40JaVtBIN4cFi-ANvsqGdlNNw=s900-c-k-c0x00ffffff-no-rj", Comedy Central SV1
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/1118
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/W1uRP87qorciWsOaKcRBYpwumSL7RZCf9bIoiY_sJbSJooh9O40JaVtBIN4cFi-ANvsqGdlNNw=s900-c-k-c0x00ffffff-no-rj", Comedy Central SV2
@@ -661,3 +661,15 @@ http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/304093
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/310170
 #EXTINF:-1 group-title="Kênh thể thao quốc tế " tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi3", MonoMax 2
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/310171
+#EXTINF:-1 group-title="Kênh thể thao quốc tế " tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/TNT_Sports_1_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20260225232947", TNT Sports 1 SV1
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/348297
+#EXTINF:-1 group-title="Kênh thể thao quốc tế " tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/TNT_Sports_1_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20260225232947", TNT Sports 1 SV2
+http://ronaldo.tvfor.pro/Z6V9d48eGz/tht6v98456np1k198n81n2t8?%7CUser-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Kênh thể thao quốc tế " tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/TNT_Sports_1_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20260225232947", TNT Sports 1 SV3
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/17281
+#EXTINF:-1 group-title="Kênh thể thao quốc tế " tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TNT_Sports_2_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20260225233941", TNT Sports 2
+http://ronaldo.tvfor.pro/3Z76Abnp8N/tht6v98456np1k198n81n2t8?%7CUser-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Kênh thể thao quốc tế " tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/TNT_Sports_3_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20260225234939", TNT Sports 3
+http://ronaldo.tvfor.pro/r25HTg8Sx7/tht6v98456np1k198n81n2t8?%7CUser-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Kênh thể thao quốc tế " tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/TNT_Sports_Ultimate_%282023%29_II.svg/revision/latest/scale-to-width-down/250?cb=20230719041550", TNT Sports Ultimate 4K
+http://ktkguru.com:80/06DD463C8236519/f2ypvVoSFB/1281083

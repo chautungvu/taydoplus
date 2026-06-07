@@ -9,8 +9,8 @@ https://live-a.fptplay53.net/live/media/VTV3HD/live_hls_avc/VTV3HD-avc1_3800000=
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv5hd" tvg-logo="https://s1288.cdn.mytvnet.vn/vimages/03/3c/c0/01/1e/e6/03c01-pvtv5hd-channel-unkn.png", VTV5 HD
 https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/VTV5HD-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv6-hd", VTV6 HD DB (Thử nghiệm)
-https://ace.hoiquan.click/module/IPTV/?id=VTV6HD&accKenh=admin
+#EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv6-hd", VTV6 HD DB (Thử nghiệm 720p)
+https://vtvgolive-ssaimh.vtvdigital.vn/A8pKUpzmnP3q965gNyxTcw/1780834595/manifest/vtv6tt/playlist_720p.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv7hd" tvg-logo="https://s1288.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png", VTV7 HD
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv8hd" tvg-logo="https://s12810.cdn.mytvnet.vn/vimages/0f/f4/4d/d7/75/51/0f4d7-pvtv8hd-channel-unkn.png", VTV8 HD

@@ -89,31 +89,31 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onlife" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/63/38/88/8e/e2/23/6388e-ponlifehd-channel-unkn.png", On Life
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
-#EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onsports" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png", Thể Thao TV HD
+#EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onsports" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png", On Sports FHD 50fps
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
 https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
-#EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onsportsplus" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/f6/68/85/5b/b0/02/f685b-ponsportshd-channel-unkn.png", Thể Thao Plus HD
+#EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onsportsplus" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/f6/68/85/5b/b0/02/f685b-ponsportshd-channel-unkn.png", On Sports Plus FHD 50fps
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
-#EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onfootball" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png", Bóng Đá TV HD
+#EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onfootball" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png", On Football FHD 50fps
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
-#EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onsportsnews" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/6b/b3/32/2f/f7/72/6b32f-ponsportsnews-channel-unkn.png", Thể Thao Tin Tức HD
+#EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onsportsnews" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/6b/b3/32/2f/f7/72/6b32f-ponsportsnews-channel-unkn.png", On Sports News FHD 50fps
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
-#EXTINF:-1 group-title="Kênh VTVCab" tvg-id="ongolf" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/5a/a1/16/6f/f7/78/5a16f-pongolf-channel-unkn.png", Thể Thao Golf HD
+#EXTINF:-1 group-title="Kênh VTVCab" tvg-id="ongolf" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/5a/a1/16/6f/f7/78/5a16f-pongolf-channel-unkn.png", On Golf FHD 50fps
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 

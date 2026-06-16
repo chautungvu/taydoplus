@@ -92,35 +92,35 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onsports" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png", Thể Thao TV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
 https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onsportsplus" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/f6/68/85/5b/b0/02/f685b-ponsportshd-channel-unkn.png", Thể Thao Plus HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onfootball" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png", Bóng Đá TV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="onsportsnews" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/6b/b3/32/2f/f7/72/6b32f-ponsportsnews-channel-unkn.png", Thể Thao Tin Tức HD
 #KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 #EXTINF:-1 group-title="Kênh VTVCab" tvg-id="ongolf" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/5a/a1/16/6f/f7/78/5a16f-pongolf-channel-unkn.png", Thể Thao Golf HD
 #KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 https://livevlisctcdnw.seenow.vn/mean/THETHAO_GOLF_HD/manifest.mpd
 #EXTINF:-1 group-title="Kênh thiết yếu" tvg-id="qpvnhd" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/ef/f6/64/46/6b/be/ef646-pqpvnhd-channel-unkn.png", QPVN
-https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/live-hls-247/quocphongvnhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh thiết yếu" tvg-id="antvhd" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png", ANTV
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh THVL" tvg-id="vinhlong1hd" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/64/47/7e/e1/12/2d/647e1-pvnhlong1hd-channel-unkn.png", THVL1 HD

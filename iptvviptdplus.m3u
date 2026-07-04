@@ -1,30 +1,28 @@
 #EXTM3U x-tvg-url="https://vnepg.site/epg.xml.gz"
-#nhà vệ sinh 26 đã được thêm
-
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv1hd" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png", VTV1 FHD
 https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv2hd" tvg-logo="https://s1289.cdn.mytvnet.vn/vimages/17/7c/c2/2c/c5/50/17c2c-pvtv2hd-channel-unkn.png", VTV2 FHD
-https://live.fptplay53.net/fnxhd1/vtv2hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/v2abr/live247-hls-avc/v2abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv3hd" tvg-logo="https://s935.cdn.mytvnet.vn/vimages/7a/a1/11/13/30/0c/7a113-pvtv3hd-channel-unkn.png", VTV3 FHD
-https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv4hd" tvg-logo="https://s12810.cdn.mytvnet.vn/vimages/8f/ff/f9/93/31/1c/8ff93-pvtv4hd-channel-unkn.png", VTV4 FHD
-https://live.fptplay53.net/fnxhd1/vtv4hd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv5hd" tvg-logo="https://s1288.cdn.mytvnet.vn/vimages/03/3c/c0/01/1e/e6/03c01-pvtv5hd-channel-unkn.png", VTV5 FHD
-https://live.fptplay53.net/fnxhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv6hd" tvg-logo="https://s12983.cdn.mytvnet.vn/vimages/9b/b0/05/5c/c3/31/9b05c-pvtv6ththaohd-channel-unkn.png", VTV6 FHD
-https://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv7hd" tvg-logo="https://s1288.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png", VTV7 FHD
-https://live-a.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/v7abr/live247-hls-avc/v7abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv8hd" tvg-logo="https://s12810.cdn.mytvnet.vn/vimages/0f/f4/4d/d7/75/51/0f4d7-pvtv8hd-channel-unkn.png", VTV8 FHD
-https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv9hd" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png", VTV9 FHD
-https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv10hd" tvg-logo="https://s1288.cdn.mytvnet.vn/vimages/b3/3f/ff/fe/eb/b5/b3ffe-lvtv10hdappc1710png-content-mytv.png", VTV10 FHD
-https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/fnxhd1/vtv10hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv5hdtnb" tvg-logo="https://s12814.cdn.mytvnet.vn/vimages/48/82/2d/d6/6d/d8/482d6-pvtv5tynambhd-channel-unkn.png", VTV5 TNB
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv5hdtn" tvg-logo="https://s1288.cdn.mytvnet.vn/vimages/03/3c/c0/01/1e/e6/03c01-pvtv5hd-channel-unkn.png", VTV5 TN
-https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vietnamtoday" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/64/4d/db/b8/80/03/64db8-pvietnamtoday-channel-unkn.png", Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Kênh HTV" tvg-id="htv1" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png", HTV1
@@ -401,8 +399,10 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2025/05/SKY-NEWS-LOGO-TAGLINE.jpg", Sky News
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2197
-#EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://www.billboard.com/wp-content/uploads/2024/06/adult-swim-logo-2024-billboard-1548.jpg", Adult Swim HD
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://www.billboard.com/wp-content/uploads/2024/06/adult-swim-logo-2024-billboard-1548.jpg", Adult Swim East
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:00:00:AB&stream=150345&extension=ts
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-id="" tvg-logo="https://www.billboard.com/wp-content/uploads/2024/06/adult-swim-logo-2024-billboard-1548.jpg", Adult Swim West
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/855375.m3u8
 #EXTINF:-1 group-title="Kênh hướng dẫn" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chautungvu/taydoplus/refs/heads/main/tdpluslogo.png", Hướng dẫn khách hàng
 https://www.dropbox.com/scl/fi/it2p2yjeslquemdjyujvp/hdkh.mp4?rlkey=ag5ep7743rcupbrlp91kbyrpb&st=4bg3kccz&raw=1
 #EXTINF:-1 group-title="Kênh sự kiện VTVprime" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/AEVVvvFeuPoxweopV_5e5iKj7t0qghWSk_awyWG9L1F9HZVKnf5i0OTukSAy6cA2YoeZp_2BJS6edQQ0ffFcBw", VTVprime1
@@ -576,55 +576,109 @@ https://vips-livecdn.fptplay.net/live/media/event-09/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Kênh sự kiện FPT Play" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi", FPT Event 2
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a1/Sky_Sports_Main_Event_%282020%29.png/revision/latest/scale-to-width-down/1280?cb=20220227231333", Sky Sports Main Event 50fps
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a1/Sky_Sports_Main_Event_%282020%29.png/revision/latest/scale-to-width-down/1280?cb=20220227231333", Sky Sports Main Event 50fps
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/58925.ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sky_Sports_Premier_League_-_Logo_2025.svg/3840px-Sky_Sports_Premier_League_-_Logo_2025.svg.png", Sky Sports Premier League DE HD
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sky_Sports_Premier_League_-_Logo_2025.svg/3840px-Sky_Sports_Premier_League_-_Logo_2025.svg.png", Sky Sports Premier League DE HD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1030402.ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1280px-Premier_League_Logo.svg.png", Goal Rush
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:00:00:00&stream=1313251&extension=ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://www.blackbookmotorsport.com/wp-content/uploads/2025/05/ESPN-Brazil-1.png", ESPN Brazil
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://www.blackbookmotorsport.com/wp-content/uploads/2025/05/ESPN-Brazil-1.png", ESPN Brazil
 http://cdn.tv-rds.workers.dev/ESPN4BR.m3u8
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sky_Sports_Premier_League_-_Logo_2025.svg/3840px-Sky_Sports_Premier_League_-_Logo_2025.svg.png", Sky Sports PL FHD 50fps
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sky_Sports_Premier_League_-_Logo_2025.svg/3840px-Sky_Sports_Premier_League_-_Logo_2025.svg.png", Sky Sports PL FHD 50fps
 http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/298381
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/1280px-Sky_Sports_F1_logo_2020.svg.png", Sky Sports F1 FHD 50fps
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/1280px-Sky_Sports_F1_logo_2020.svg.png", Sky Sports F1 FHD 50fps
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2189
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_Sports_Football_-_Logo_2025.svg/3840px-Sky_Sports_Football_-_Logo_2025.svg.png", Sky Sports Football FHD 50fps
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_Sports_Football_-_Logo_2025.svg/3840px-Sky_Sports_Football_-_Logo_2025.svg.png", Sky Sports Football FHD 50fps
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2188
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Sky_Sports_Mix_2017.svg/revision/latest?cb=20170718104658", Sky Sports Mix 50fps
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Sky_Sports_Mix_2017.svg/revision/latest?cb=20170718104658", Sky Sports Mix 50fps
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2180
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Sky_Sports_News_%282021_logo%29.svg/3840px-Sky_Sports_News_%282021_logo%29.svg.png", Sky Sports News
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Sky_Sports_News_%282021_logo%29.svg/3840px-Sky_Sports_News_%282021_logo%29.svg.png", Sky Sports News
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2179
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/960px-Sky_Sport_Action.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail", Sky Sports Action FHD
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/960px-Sky_Sport_Action.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail", Sky Sports Action FHD
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2194
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279488754%27&EntityType=%27Item%27&EntityId=%27567123%27&Width=1920&Height=1080", Hub Premier 1 FHD
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:00:00:00&stream=1314077&extension=ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624578%27&EntityType=%27Item%27&EntityId=%27572415%27&Width=1920&Height=1080", Hub Premier 2 UHD
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:00:00:00&stream=1314088&extension=ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_425_305", NOW Sports 4K 1
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279488754%27&EntityType=%27Item%27&EntityId=%27567123%27&Width=1920&Height=1080", Hub Premier 1 FHD
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/1314077.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624578%27&EntityType=%27Item%27&EntityId=%27572415%27&Width=1920&Height=1080", Hub Premier 2 UHD
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/1314078.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_425_305", NOW Sports 4K 1
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:00:00:AB&stream=554949&extension=ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_425_305", NOW Sports 4K 2
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_425_305", NOW Sports 4K 2
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:00:00:AB&stream=554948&extension=ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch613_425_305", NOW Sports 4K 3
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch613_425_305", NOW Sports 4K 3
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:00:00:AB&stream=554947&extension=ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305", NOW Sports 4K 4
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305", NOW Sports 4K 4
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:00:00:AB&stream=554946&extension=ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_425_305", NOW Sports 5
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_425_305", NOW Sports 5
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:00:00:AB&stream=554945&extension=ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305", NOW Sports 6
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305", NOW Sports 6
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:00:00:AB&stream=554944&extension=ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305", NOW Sports 7
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305", NOW Sports 7
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:00:00:AB&stream=554943&extension=ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/oQsfk5g9HQL0meOU8eJ3gjEojwGkGI8woZresbvo8_XlxrAGrrYXpobA6GzfpFBS7YV3el2u7m9N6BSjUE_Asw", NOW Sports 616 UHD 1
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/oQsfk5g9HQL0meOU8eJ3gjEojwGkGI8woZresbvo8_XlxrAGrrYXpobA6GzfpFBS7YV3el2u7m9N6BSjUE_Asw", NOW Sports 616 UHD 1
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:00:00:AB&stream=2095898&extension=ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/oQsfk5g9HQL0meOU8eJ3gjEojwGkGI8woZresbvo8_XlxrAGrrYXpobA6GzfpFBS7YV3el2u7m9N6BSjUE_Asw", NOW Sports 617 UHD 1
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/oQsfk5g9HQL0meOU8eJ3gjEojwGkGI8woZresbvo8_XlxrAGrrYXpobA6GzfpFBS7YV3el2u7m9N6BSjUE_Asw", NOW Sports 617 UHD 1
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:00:00:AB&stream=2095897&extension=ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/oQsfk5g9HQL0meOU8eJ3gjEojwGkGI8woZresbvo8_XlxrAGrrYXpobA6GzfpFBS7YV3el2u7m9N6BSjUE_Asw", NOW Sports 616 UHD 2
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/oQsfk5g9HQL0meOU8eJ3gjEojwGkGI8woZresbvo8_XlxrAGrrYXpobA6GzfpFBS7YV3el2u7m9N6BSjUE_Asw", NOW Sports 616 UHD 2
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:00:00:00&stream=2095898&extension=ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/oQsfk5g9HQL0meOU8eJ3gjEojwGkGI8woZresbvo8_XlxrAGrrYXpobA6GzfpFBS7YV3el2u7m9N6BSjUE_Asw", NOW Sports 617 UHD 2
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/oQsfk5g9HQL0meOU8eJ3gjEojwGkGI8woZresbvo8_XlxrAGrrYXpobA6GzfpFBS7YV3el2u7m9N6BSjUE_Asw", NOW Sports 617 UHD 2
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:00:00:00&stream=2095897&extension=ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png", BEiN Sports Max 4K HDR
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png", BEiN Sports Max 4K HDR
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:00:00:00&stream=2095904&extension=ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/960px-Logo_M6_%282020%2C_fond_clair%29.svg.png?_=20200902084934", M6 UHD
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:00:00:AB&stream=2095896&extension=ts
-#EXTINF:-1 group-title="Kênh thể thao quốc tế" tvg-id="" tvg-logo="https://scontent.fthd2-1.fna.fbcdn.net/v/t39.30808-1/434036016_768624058734102_6288667897666684484_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1920&ctp=s200x200&_nc_cat=103&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=KnlMGkZLTwYQ7kNvwE4sqQD&_nc_oc=AdoKxNXOeuERBU1h3SgCfOt3MH2bslQLw1mpQptcN9pSbFvxH0J_pQI0lA3nKfBB5dA&_nc_zt=24&_nc_ht=scontent.fthd2-1.fna&_nc_gid=gE0U00aCESqr575u93xVHw&_nc_ss=7b2a8&oh=00_Af_cUgBzxGspOyKdxVeIi36VjeJU8eMvNipPTBXJG_FHDw&oe=6A380332", BBC 4K HDR
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:00:00:AB&stream=2095903&extension=ts
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png", Canal+ Sport
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941408.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d1/Canal%2B_Sport_360_%282023-.n.v.%29.png/revision/latest?cb=20250613142700", Canal+ 360
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941411.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/C%2B_Foot.png", Canal+ Foot
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941405.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6b/UEFA_CHAMPIONS_LEAGUE.png", Canal+ Champions League
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941625.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo-CanalPlus-PremierLeague.png", Canal+ Premier League
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941414.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 1
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941442.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 2
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941443.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 3
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941444.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 4
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941445.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 5
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941446.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 6
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941447.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 7
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941448.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 8
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941449.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 9
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941450.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 10
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941451.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 11
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941452.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 12
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941453.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 13
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941454.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 14
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941455.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 15
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941456.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 16
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941457.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 17
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941458.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 18
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941459.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/3840px-Canal%2B_Live.svg.png", Canal+ Live 19
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/941460.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/06b2ed34094383b6376be620277af8c0.126253.PNG", FussballTV 1
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/1745092.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/21eb56bdde7a242a9492395efb2417b0.126254.PNG", FussballTV 2
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/1745093.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/af399a79c7f18399c3d55cebd6977c62.126255.PNG", FussballTV 3
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/1745094.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/06b2ed34094383b6376be620277af8c0.126253.PNG", FussballTV 1 UHD
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/1745095.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/21eb56bdde7a242a9492395efb2417b0.126254.PNG", FussballTV 2 UHD
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/1745096.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/af399a79c7f18399c3d55cebd6977c62.126255.PNG", FussballTV 3 UHD
+http://line.smootvone.vip:80/live/13L9Q6/7SWZHR/1745097.m3u8

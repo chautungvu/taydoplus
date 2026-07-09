@@ -18,7 +18,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv9hd" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png", VTV9 FHD
 https://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv10hd" tvg-logo="https://s1288.cdn.mytvnet.vn/vimages/b3/3f/ff/fe/eb/b5/b3ffe-lvtv10hdappc1710png-content-mytv.png", VTV10 FHD
-https://live.fptplay53.net/fnxhd1/vtv10hd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv5hdtnb" tvg-logo="https://s12814.cdn.mytvnet.vn/vimages/48/82/2d/d6/6d/d8/482d6-pvtv5tynambhd-channel-unkn.png", VTV5 TNB
 https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv5hdtn" tvg-logo="https://s1288.cdn.mytvnet.vn/vimages/03/3c/c0/01/1e/e6/03c01-pvtv5hd-channel-unkn.png", VTV5 TN

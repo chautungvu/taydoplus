@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://vnepg.site/epg.xml.gz"
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv1hd" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png" watermark="bottom-right", VTV1 FHD
 https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv2hd" tvg-logo="https://s1289.cdn.mytvnet.vn/vimages/17/7c/c2/2c/c5/50/17c2c-pvtv2hd-channel-unkn.png watermark="bottom-right"", VTV2 FHD
+#EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv2hd" tvg-logo="https://s1289.cdn.mytvnet.vn/vimages/17/7c/c2/2c/c5/50/17c2c-pvtv2hd-channel-unkn.png watermark="bottom-right", VTV2 FHD
 https://vips-livecdn.fptplay.net/live/media/v2abr/live247-hls-avc/v2abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv3hd" tvg-logo="https://s935.cdn.mytvnet.vn/vimages/7a/a1/11/13/30/0c/7a113-pvtv3hd-channel-unkn.png watermark="bottom-right"", VTV3 FHD
+#EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv3hd" tvg-logo="https://s935.cdn.mytvnet.vn/vimages/7a/a1/11/13/30/0c/7a113-pvtv3hd-channel-unkn.png watermark="bottom-right", VTV3 FHD
 https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv4hd" tvg-logo="https://s12810.cdn.mytvnet.vn/vimages/8f/ff/f9/93/31/1c/8ff93-pvtv4hd-channel-unkn.png watermark="top-right"", VTV4 FHD
+#EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv4hd" tvg-logo="https://s12810.cdn.mytvnet.vn/vimages/8f/ff/f9/93/31/1c/8ff93-pvtv4hd-channel-unkn.png watermark="top-right", VTV4 FHD
 https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv5hd" tvg-logo="https://s1288.cdn.mytvnet.vn/vimages/03/3c/c0/01/1e/e6/03c01-pvtv5hd-channel-unkn.png" watermark="bottom-right", VTV5 FHD
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
@@ -25,3 +25,12 @@ https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=
 https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vietnamtoday" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/64/4d/db/b8/80/03/64db8-pvietnamtoday-channel-unkn.png" watermark="bottom-left", Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="test" tvg-id="vietnamtoday" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/64/4d/db/b8/80/03/64db8-pvietnamtoday-channel-unkn.png" watermark="bottom-right", No signal test
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/bvcxbdcvbncv.m3u8
+#EXTINF:-1 group-title="test" tvg-id="vietnamtoday" tvg-logo="https://s12984.cdn.mytvnet.vn/vimages/64/4d/db/b8/80/03/64db8-pvietnamtoday-channel-unkn.png" watermark="bottom-right", ClearKey test
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd

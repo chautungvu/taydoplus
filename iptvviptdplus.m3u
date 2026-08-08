@@ -1,88 +1,87 @@
 #EXTM3U x-tvg-url="https://vnepg.site/epg.xml.gz"
-#too normal
-#EXTINF:-1 group-title="TV HD" tvg-id="vtv1hd" watermark="bottom-right", VTV1 ABR
-https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="vtv2hd" watermark="bottom-right", VTV2 ABR
-https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/index.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="vtv3hd" watermark="bottom-right", VTV3 ABR
-https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="vtv4hd" watermark="bottom-right", VTV4 ABR
-https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="vtv5hd" watermark="bottom-right", VTV5 ABR
-https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="vtv6hd", VTV6 ABR
-https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="vtv7hd", VTV7 ABR
-https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="vtv8hd", VTV8 ABR
-https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/index.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="vtv9hd", VTV9 ABR
-https://vips-livecdn.fptplay.net/live/media/live247-hls-avc/index.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="vtv10hd", VTV10 ABR
-https://vips-livecdn.fptplay.net/live/media/v10abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="vtv5hdtnb", VTV5 TNB ABR
-https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="vtv5hdtn", VTV5 TN ABR
-https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="vietnamtoday", Vietnam Today
+#EXTINF:-1 group-title="TV HD" tvg-id="vtv1hd", VTV1 HD
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="vtv2hd", VTV2 HD
+https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="vtv3hd", VTV3 HD
+https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="vtv4hd", VTV4 HD
+https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="vtv5hd", VTV5 HD
+https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="vtv6hd", VTV6 HD
+https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="vtv7hd", VTV7 HD
+https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="vtv8hd", VTV8 HD
+https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="vtv9hd", VTV9 HD
+https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="vtv10hd", VTV10 HD
+https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="vtv5hdtnb", VTV5 TNB HD
+https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="vtv5hdtn", VTV5 TN HD
+https://live.fptplay53.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="vietnamtoday", VIETNAM TODAY
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="htv1", HTV1 FPT
+#EXTINF:-1 group-title="TV HD" tvg-id="htv1", HTV1 HD
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="htv2hd", HTV2 FPT
+#EXTINF:-1 group-title="TV HD" tvg-id="htv2hd", HTV2 HD
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="htv3", HTV3 FPT
+#EXTINF:-1 group-title="TV HD" tvg-id="htv3", HTV3 HD
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="htv4", HTV4 FPT
+#EXTINF:-1 group-title="TV HD" tvg-id="htv4", HTV4 HD
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="htv5", HTV5 FPT
+#EXTINF:-1 group-title="TV HD" tvg-id="htv5", HTV5 HD
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="htv7hd", HTV7 FPT
+#EXTINF:-1 group-title="TV HD" tvg-id="htv7hd", HTV7 HD
 https://live-a.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_2800000=10001-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="htv9hd", HTV9 FPT
+#EXTINF:-1 group-title="TV HD" tvg-id="htv9hd", HTV9 HD
 https://live-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_2800000=10001-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="htvthethaohd", HTV Thể Thao
+#EXTINF:-1 group-title="TV HD" tvg-id="htvthethaohd", HTV THE THAO HD
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="htvcthuanviet", HTVC Thuần Việt
+#EXTINF:-1 group-title="TV HD" tvg-id="htvcthuanviet", HTVC THUAN VIET
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="htvcdulichhd", HTVC Du Lịch
+#EXTINF:-1 group-title="TV HD" tvg-id="htvcdulichhd", HTVC DU LICH
 https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="htvccanhachd", HTVC Ca Nhạc
+#EXTINF:-1 group-title="TV HD" tvg-id="htvccanhachd", HTVC CA NHAC
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="htvcphimhd", HTVC Phim
+#EXTINF:-1 group-title="TV HD" tvg-id="htvcphimhd", HTVC PHIM
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="htvcgiadinhhd", HTVC Gia Đình
+#EXTINF:-1 group-title="TV HD" tvg-id="htvcgiadinhhd", HTVC GIA DINH
 https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="htvcphunuhd", HTVC Phụ Nữ
+#EXTINF:-1 group-title="TV HD" tvg-id="htvcphunuhd", HTVC PHU NU
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="htvcplushd", HTVC Plus
+#EXTINF:-1 group-title="TV HD" tvg-id="htvcplushd", HTVC PLUS
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TV HD" tvg-id="onviegiaitri", ON Vie Giải Trí
+#EXTINF:-1 group-title="TV HD" tvg-id="onviegiaitri", ON VIE GIAI TRI
 https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:-1 group-title="TV HD" tvg-id="onphimviet", ON Phim Việt
+#EXTINF:-1 group-title="TV HD" tvg-id="onphimviet", ON PHIM VIET
 https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
-#EXTINF:-1 group-title="TV HD" tvg-id="onmovies", ON Movies
+#EXTINF:-1 group-title="TV HD" tvg-id="onmovies", ON MOVIES
 https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1 group-title="TV HD" tvg-id="onechannel", EChannel
+#EXTINF:-1 group-title="TV HD" tvg-id="onechannel", ON ECHANNEL
 https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 group-title="TV HD" tvg-id="ono2tv", O2TV
+#EXTINF:-1 group-title="TV HD" tvg-id="ono2tv", ON O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
-#EXTINF:-1 group-title="TV HD" tvg-id="onbibi", ON BiBi
+#EXTINF:-1 group-title="TV HD" tvg-id="onbibi", ON BIBI
 https://freem3u.xyz/api/live/play.m3u8?vid=178
-#EXTINF:-1 group-title="TV HD" tvg-id="oncine", ON Cine
+#EXTINF:-1 group-title="TV HD" tvg-id="oncine", ON CINE
 https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 group-title="TV HD" tvg-id="onstyle", ON Style TV
+#EXTINF:-1 group-title="TV HD" tvg-id="onstyle", ON STYLE TV
 https://freem3u.xyz/api/live/play.m3u8?vid=184
-#EXTINF:-1 group-title="TV HD" tvg-id="onmusic", ON Music
+#EXTINF:-1 group-title="TV HD" tvg-id="onmusic", ON MUSIC
 https://freem3u.xyz/api/live/play.m3u8?vid=185
 #EXTINF:-1 group-title="TV HD" tvg-id="ontrending", ON TRENDING
 https://tpninosaga.duckdns.org/source/tv360.m3u8?id=186&token=NinoEra36
-#EXTINF:-1 group-title="TV HD" tvg-id="onviedramas", ON Vie Dramas
+#EXTINF:-1 group-title="TV HD" tvg-id="onviedramas", ON VIE DRAMAS
 https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 group-title="TV HD" tvg-id="onvfamily", ON V Family
+#EXTINF:-1 group-title="TV HD" tvg-id="onvfamily", ON V FAMILY
 https://freem3u.xyz/api/live/play.m3u8?vid=187
-#EXTINF:-1 group-title="TV HD" tvg-id="onkids", On Kids
+#EXTINF:-1 group-title="TV HD" tvg-id="onkids", ON KIDS
 https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1 group-title="TV HD" tvg-id="onlife", On Life
+#EXTINF:-1 group-title="TV HD" tvg-id="onlife", On LIFE
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 group-title="TV HD" tvg-id="onsports", ON SPORTS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -592,6 +591,57 @@ https://vips-livecdn.fptplay.net/live/media/event-09/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TV HD" tvg-id="", FPT PLAY 10
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="", CH-2026
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv451/manifest.mpd
+#EXTINF:-1 group-title="TV HD" tvg-id="", CH-2019
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv262/manifest.mpd
+#EXTINF:-1 group-title="TV HD" tvg-id="", CH-2091
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv516/manifest.mpd
+#EXTINF:-1 group-title="TV HD" tvg-id="", CH-2134
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv455/manifest.mpd
+#EXTINF:-1 group-title="TV HD" tvg-id="", CH-7869
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv263/manifest.mpd
+#EXTINF:-1 group-title="TV HD" tvg-id="", CH-2076
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd
+#EXTINF:-1 group-title="TV HD" tvg-id="", CH-6789
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
+https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv588/manifest.mpd
+#EXTINF:-1 group-title="TV HD" tvg-id="", CH-6790
+https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="", VTV1 SD
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_400000=10004-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="", VTV2 SD
+https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_400000=10004-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="", VTV4 SD
+https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_400000=10004-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="", VTV7 SD
+https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_400000=10004-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="", VTV9 SD
+https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_400000=10004-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="", THANH HOA
+https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="", GIA LAI
+https://tv.gialaitv.vn/tv.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-id="", VOV1
 https://tfy80gr3dgmtugrzdgpbqgrhdommbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov1.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-id="", VOV2

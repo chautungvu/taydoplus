@@ -592,42 +592,37 @@ https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TV HD" tvg-id="", FPT PLAY 10
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="TV HD" tvg-id="", CH-2026
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv451/manifest.mpd
+https://rdmedia.bbc.co.uk/testcard/simulcast/manifests/avc-full.m3u8
 #EXTINF:-1 group-title="TV HD" tvg-id="", CH-2019
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv262/manifest.mpd
+https://rdmedia.bbc.co.uk/testcard/simulcast/manifests/avc-full.m3u8
 #EXTINF:-1 group-title="TV HD" tvg-id="", CH-2091
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7485.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv516/manifest.mpd
+https://rdmedia.bbc.co.uk/testcard/simulcast/manifests/avc-full.m3u8
 #EXTINF:-1 group-title="TV HD" tvg-id="", CH-2134
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv455/manifest.mpd
+https://rdmedia.bbc.co.uk/testcard/simulcast/manifests/avc-full.m3u8
 #EXTINF:-1 group-title="TV HD" tvg-id="", CH-7869
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7486.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv263/manifest.mpd
+https://rdmedia.bbc.co.uk/testcard/simulcast/manifests/avc-full.m3u8
 #EXTINF:-1 group-title="TV HD" tvg-id="", CH-2076
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv587/manifest.mpd
-#EXTINF:-1 group-title="TV HD" tvg-id="", CH-6789
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/mytv2/key.php
-https://s7484.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv588/manifest.mpd
+https://rdmedia.bbc.co.uk/testcard/simulcast/manifests/avc-full.m3u8
 #EXTINF:-1 group-title="TV HD" tvg-id="", CH-6790
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="", Reuters TV News Asiasat5
+https://d1qvkrpvk32u24.cloudfront.net/RLS/RLSHD50/playlist.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="", RL 1 HD
+https://d3iwkuprshvnfk.cloudfront.net/RLSP1/HD60_500kb/chunklist.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="", RL 2 HD
+https://d3iwkuprshvnfk.cloudfront.net/RLSP2/HD60_500kb/chunklist.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="", AP Direct FEED 1
+http://1610684902.rsc.cdn77.org/Ugg7ohj1KOol2v04/live_LZhmmII6x8GR7I3ig3zQ/AP_FEED_1_2500k/chunks.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="", AP FEED 2
+http://1610684902.rsc.cdn77.org/4M2gqURXdsxuPj01/live_LZhmmII6x8GR7I3ig3zQ/AP_FEED_2_2500k/chunks.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="", AP FEED 3
+http://1610684902.rsc.cdn77.org/SCNek2Fa6TFmNF02/live_LZhmmII6x8GR7I3ig3zQ/AP_FEED_3_2500k/chunks.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="", AFP Multiview FEED
+https://afp-paris.akamaized.net/hls/live/596828/afpb/1.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="", CNN News 1
+https://newsource-live.warnermediacdn.com/hls/live/2039047/CNNNewsource1/VIDEO_0_8128000.m3u8
+#EXTINF:-1 group-title="TV HD" tvg-id="", CNN News 2
+https://newsource-live.warnermediacdn.com/hls/live/2039049/CNNNewsource2/VIDEO_0_8128000.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="", VTV1 SD
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_400000=10004-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="", VTV2 SD

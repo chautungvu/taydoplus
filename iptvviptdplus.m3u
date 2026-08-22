@@ -444,42 +444,42 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT3/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT4/manifest.mpd
-#EXTINF:-1 group-title="TV HD" tvg-id="", VTV PRIME 5
+#EXTINF:-1 group-title="TV HD" tvg-id="", FPT DRM 1 H265 4K
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT5/manifest.mpd
-#EXTINF:-1 group-title="TV HD" tvg-id="", VTV PRIME 6
+#KODIPROP:inputstream.adaptive.license_key=74fd615fc49e4ce5bf8d30bff1b4c26f:a9fc93c4e758cb36af561f887b9a4806
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_01_4K_H265/dash_h_drm/index.mpd
+#EXTINF:-1 group-title="TV HD" tvg-id="", FPT DRM 2 H265 4K
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT6/manifest.mpd
-#EXTINF:-1 group-title="TV HD" tvg-id="", VTV PRIME 7
+#KODIPROP:inputstream.adaptive.license_key=74fd615fc49e4ce5bf8d30bff1b4c26f:a9fc93c4e758cb36af561f887b9a4806
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_01_4K_H265/dash_h_drm/index.mpd
+#EXTINF:-1 group-title="TV HD" tvg-id="", FPT DRM 3 H265 4K
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT7/manifest.mpd
-#EXTINF:-1 group-title="TV HD" tvg-id="", VTV PRIME 8
+#KODIPROP:inputstream.adaptive.license_key=94c9fef3e4df402ab1cf7c0351cd7788:87be62f1337ac2d76a4f2c821ab5ef53
+https://vips-livecdn.fptplay.net/live/media/EPL_HCM_05_4K_H265/dash_h_drm/index.mpd
+#EXTINF:-1 group-title="TV HD" tvg-id="", FPT DRM HD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd
-#EXTINF:-1 group-title="TV HD" tvg-id="", VTV PRIME 9
+#KODIPROP:inputstream.adaptive.license_key=74fd615fc49e4ce5bf8d30bff1b4c26f:a9fc93c4e758cb36af561f887b9a4806
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_01_4K_H264/dash_a_drm/index.mpd
+#EXTINF:-1 group-title="TV HD" tvg-id="", FPT DRM HD 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
-#EXTINF:-1 group-title="TV HD" tvg-id="", VTV PRIME 10
+#KODIPROP:inputstream.adaptive.license_key=74fd615fc49e4ce5bf8d30bff1b4c26f:a9fc93c4e758cb36af561f887b9a4806
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_01_4K_H264/dash_a_drm/index.mpd
+#EXTINF:-1 group-title="TV HD" tvg-id="", FPT DRM HD 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT10/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=94c9fef3e4df402ab1cf7c0351cd7788:87be62f1337ac2d76a4f2c821ab5ef53
+https://vips-livecdn.fptplay.net/live/media/EPL_HCM_05_4K_H264/dash_a_drm/index.mpd
 #EXTINF:-1 group-title="TV HD" tvg-id="", VTV PRIME 11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

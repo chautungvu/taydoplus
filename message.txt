@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1,Reuters TV News
+https://d1qvkrpvk32u24.cloudfront.net/RLS/RLSHD50/playlist.m3u8
+#EXTINF:-1,RL 1
+https://d3iwkuprshvnfk.cloudfront.net/RLSP1/HD60_500kb/chunklist.m3u8
+#EXTINF:-1,RL 2
+https://d3iwkuprshvnfk.cloudfront.net/RLSP2/HD60_500kb/chunklist.m3u8
+#EXTINF:-1,RL 3
+https://d3iwkuprshvnfk.cloudfront.net/RLSP3/HD60_500kb/chunklist.m3u8
+#EXTINF:-1,RL 4
+https://d3iwkuprshvnfk.cloudfront.net/RLSP4/HD60_500kb/chunklist.m3u8
+#EXTINF:-1,RL 5
+https://d3iwkuprshvnfk.cloudfront.net/RLSP5/HD60_500kb/chunklist.m3u8
+#EXTINF:-1,RL 6
+https://d3iwkuprshvnfk.cloudfront.net/RLSP6/HD60_500kb/chunklist.m3u8
+#EXTINF:-1,AP Direct
+http://1610684902.rsc.cdn77.org/Ugg7ohj1KOol2v04/live_LZhmmII6x8GR7I3ig3zQ/AP_FEED_1_2500k/chunks.m3u8
+#EXTINF:-1,AP Live Choice 1
+http://1610684902.rsc.cdn77.org/4M2gqURXdsxuPj01/live_LZhmmII6x8GR7I3ig3zQ/AP_FEED_2_2500k/chunks.m3u8
+#EXTINF:-1,AP Live Choice 2
+http://1610684902.rsc.cdn77.org/SCNek2Fa6TFmNF02/live_LZhmmII6x8GR7I3ig3zQ/AP_FEED_3_2500k/chunks.m3u8
+#EXTINF:-1,AP Live Choice 3
+http://1610684902.rsc.cdn77.org/eZWEYDN1QYcHsM03/live_LZhmmII6x8GR7I3ig3zQ/AP_FEED_4_2500k/chunks.m3u8
+#EXTINF:-1,AP Live Choice 4
+http://1610684902.rsc.cdn77.org/dd20476021b1fc5dd4fe0e50fabdc2bz/live_LZhmmII6x8GR7I3ig3zQ/AP_LC04_2500k/chunks.m3u8
+#EXTINF:-1,AP Live Choice 5
+http://1610684902.rsc.cdn77.org/b88e314b3e2b62b5756ba2fc95289f21/live_LZhmmII6x8GR7I3ig3zQ/5525b517_AP_LC05_2500k/chunks.m3u8
+#EXTINF:-1,AP Live Choice 6
+http://1610684902.rsc.cdn77.org/38dafadc68316650d32c7e974332e5b8/live_LZhmmII6x8GR7I3ig3zQ/8525b51D_AP_LC06_2500k/chunks.m3u8
+#EXTINF:-1,AFP TV Live PORT 40010 (IP4)
+srt://149.11.174.226:40010
+#EXTINF:-1,AFP TV Live PORT 40017 (CURATED)
+srt://149.11.174.226:40017
+#EXTINF:-1,AFP TV Live PORT 40029 (CURATED)
+srt://149.11.174.226:40029
+#EXTINF:-1,AFP TV Live PORT 40051 (CURATED)
+srt://80.239.234.22:40051
+#EXTINF:-1,AFP TV Live PORT 40060 (IP2)
+srt://149.11.174.226:40060
+#EXTINF:-1,AFP TV Live PORT 40094 (CURATED)
+srt://149.11.174.226:40094
+#EXTINF:-1,AFP TV Live PORT 40097 (IP1)
+srt://149.11.174.226:40097
+#EXTINF:-1,AFP TV Live Multiview
+https://afp-paris.akamaized.net/hls/live/596828/afpb/1.m3u8
+#EXTINF:-1,EBS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8?languages=int,
+#EXTINF:-1,EBS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8?languages=int,
+#EXTINF:-1,CNN News Source 1
+https://newsource-live.warnermediacdn.com/hls/live/2039047/CNNNewsource1/VIDEO_0_8128000.m3u8
+#EXTINF:-1,CNN News Source 2
+https://newsource-live.warnermediacdn.com/hls/live/2039049/CNNNewsource2/VIDEO_0_8128000.m3u8
+#EXTINF:-1,CNN News Source 3
+https://newsource-live.warnermediacdn.com/hls/live/2039050/CNNNewsource3/VIDEO_0_8128000.m3u8
+#EXTINF:-1,CNN News Source 4
+https://newsource-live.warnermediacdn.com/hls/live/2039051/CNNNewsource4/VIDEO_0_8128000.m3u8
+#EXTINF:-1,CNN News Source 5
+https://newsource-live.warnermediacdn.com/hls/live/2039052/CNNNewsource5/VIDEO_0_8128000.m3u8
+#EXTINF:-1,CNN News Source 6
+https://newsource-live.warnermediacdn.com/hls/live/2039053/CNNNewsource6/VIDEO_0_8128000.m3u8
+#EXTINF:-1,CNN News Source 7
+https://newsource-live.warnermediacdn.com/hls/live/2039054/CNNNewsource7/VIDEO_0_8128000.m3u8
+#EXTINF:-1,CNN News Source INTL 1
+https://newsource-live.warnermediacdn.com/hls/live/2005450/intl01/VIDEO_0_3128000.m3u8
+#EXTINF:-1,CNN News Source INTL 2
+https://newsource-live.warnermediacdn.com/hls/live/2005451/intl02/VIDEO_0_3128000.m3u8
+#EXTINF:-1,CNN News Source INTL 3
+https://newsource-live.warnermediacdn.com/hls/live/2005452/intl03/VIDEO_0_3128000.m3u8
+#EXTINF:-1,CNN News Source INTL 4
+https://newsource-live.warnermediacdn.com/hls/live/2005453/intl04/VIDEO_0_3128000.m3u8
+#EXTINF:-1,ABC NewsOne 1
+https://abcnews-streams.akamaized.net/hls/live/2023571/newsonehudson1/master_2500.m3u8
+#EXTINF:-1,ABC NewsOne 2
+https://abcnews-streams.akamaized.net/hls/live/2023572/newsonehudson2/master_2500.m3u8
+#EXTINF:-1,ABC NewsOne 3
+https://abcnews-streams.akamaized.net/hls/live/2023573/newsonehudson3/master_2500.m3u8
+#EXTINF:-1,ABC NewsOne 4
+https://abcnews-streams.akamaized.net/hls/live/2023574/newsonehudson4/master_4000.m3u8
+#EXTINF:-1,ABC NewsOne 5
+https://abcnews-streams.akamaized.net/hls/live/2104083/newsonehudson5/master_4000.m3u8

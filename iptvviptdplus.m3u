@@ -665,44 +665,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10038
 https://freem3u.xyz/api/live/play.m3u8?vid=10036
 #EXTINF:-1 group-title="RADIO" tvg-id="", THANH HOA RADIO
 https://baothanhhoa.vn/ptth/radio-m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/23/23_1787481839065.jpg", Sự Kiện 6
-https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/22/bg-1_1787392957508.jpg", Super Sunday vòng 1 (4K)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
-https://vips-livecdn.fptplay.net/live/media/EPL_HN_01_4K_H265/dash_h_drm/index.mpd
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/22/bg-1_1787392957508.jpg", Super Sunday vòng 1 (FHD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
-https://vips-livecdn.fptplay.net/live/media/EPL_HN_01_4K_H264/dash_a_drm/index.mpd
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/20/slider_1787197895187.jpg", Newcastle United vs Liverpool: Fan cứng (4K)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
-https://vips-livecdn.fptplay.net/live/media/EPL_HN_02_4K_H265/dash_h_drm/index.mpd
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/20/slider_1787197895187.jpg", Newcastle United vs Liverpool: Fan cứng (FHD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
-https://vips-livecdn.fptplay.net/live/media/EPL_HN_02_4K_H264/dash_a_drm/index.mpd
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/21/slider_1787304308976.jpg", Newcastle United vs Liverpool: Premier League Extra (4K)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
-https://vips-livecdn.fptplay.net/live/media/EPL_HN_04_4K_H265/dash_h_drm/index.mpd
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/21/slider_1787304308976.jpg", Newcastle United vs Liverpool: Premier League Extra (FHD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
-https://vips-livecdn.fptplay.net/live/media/EPL_HN_04_4K_H264/dash_a_drm/index.mpd
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_85.jpg" group-title="Pháo Hoa TV" , 🟢 01:45 24/08 ⚽ Atalanta vs Sassuolo (Pháo Thủ) [hls]
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_4973_5ELZ9aJ.jpg" group-title="Pháo Hoa TV" , 🟢 01:45 24/08 ⚽ Torino vs AC Milan (Tày) [hls]
@@ -1566,3 +1528,41 @@ https://livesp.zhibozhibozhibozhibo.com/sport/202_5540029_1.flv?auth_key=1787515
 #EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 01:15 24/08 ⚽ Lokomotiv Sofia vs CSKA Sofia [BUL D1] [flv]
 #EXTVLCOPT:http-referrer=https://www.sptv.com/
 https://livesp.zhibozhibozhibozhibo.com/sport/202_5539771_1.flv?auth_key=1787515179-1963-0-88f3b16db65c9c3d19fdbf01be700565
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/23/23_1787481839065.jpg", Sự Kiện 6
+https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/22/bg-1_1787392957508.jpg", Super Sunday vòng 1 (4K)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_01_4K_H265/dash_h_drm/index.mpd
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/22/bg-1_1787392957508.jpg", Super Sunday vòng 1 (FHD)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_01_4K_H264/dash_a_drm/index.mpd
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/20/slider_1787197895187.jpg", Newcastle United vs Liverpool: Fan cứng (4K)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_02_4K_H265/dash_h_drm/index.mpd
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/20/slider_1787197895187.jpg", Newcastle United vs Liverpool: Fan cứng (FHD)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_02_4K_H264/dash_a_drm/index.mpd
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/21/slider_1787304308976.jpg", Newcastle United vs Liverpool: Premier League Extra (4K)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_04_4K_H265/dash_h_drm/index.mpd
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/21/slider_1787304308976.jpg", Newcastle United vs Liverpool: Premier League Extra (FHD)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vmttv.dpdns.org/AutoKey/
+https://vips-livecdn.fptplay.net/live/media/EPL_HN_04_4K_H264/dash_a_drm/index.mpd

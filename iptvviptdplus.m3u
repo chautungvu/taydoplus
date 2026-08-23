@@ -2778,3 +2778,110 @@ https://livesp.zhibozhibozhibozhibo.com/sport/201_5362750_1.flv?auth_key=1787456
 https://livesp.zhibozhibozhibozhibo.com/sport/201_5712340_1.flv?auth_key=1787456486-6780-0-fd95092983fd4a48773d7d895415fb2d
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/22/pickleball-ho-chi-minh-city-open-2026---slide-thumb_1787410066389.jpg", Event 2
 https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0e3a0039b80e7bce8f9273e032794495.png" group-title="Vua Sân Cỏ TV" , 🟢 11:00 23/08 ⚽ South Hobart vs Devonport City (Nhà Đài 2) 
+https://hls.streamhub.media/hls/thesport-api-e3b6c2d1dc6e4b9320a3/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0e3a0039b80e7bce8f9273e032794495.png" group-title="Vua Sân Cỏ TV" , 🟢 11:00 23/08 ⚽ South Hobart vs Devonport City (Nhà Đài 2) 
+https://hls.streamhub.media/hls/thesport-api-e3b6c2d1dc6e4b9320a3/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkhxgd5qg8n/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:30 23/08 ⚽ San Diego FC vs Colorado Rapids (TOM) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live1.quickscoreboardz.com/live/channel62.flv?wsSecret=bc3624075cfbbb021b671633fbafa46a&wsABSTime=1787501736
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphvp5dr8k0/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:30 23/08 ⚽ Los Angeles FC vs Portland Timbers (ASTRA) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live1.quickscoreboardz.com/live/channel63.flv?wsSecret=18e134976ed75fc440177cc966c4d5cb&wsABSTime=1787501778
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergph6ver8k0/image/small" group-title="Xôi Lạc Z TV" , 🟢 09:30 23/08 ⚽ SJ Earthquakes vs Minnesota United FC (JOHAN) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live1.quickscoreboardz.com/live/channel64.flv?wsSecret=ec1f6a3d2dc1cec4fd52d5c6cf93c8b3&wsABSTime=1787501781
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hojvrz84/image/small" group-title="Xôi Lạc Z TV" , 🟢 10:00 23/08 ⚽ Cruz Azul vs Atlas (HD RIO) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live1.quickscoreboardz.com/live/channel16.flv?wsSecret=651cc2fa171dfc4562aeef3dca83936f&wsABSTime=1787501789
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh3dywql07/image/small" group-title="Xôi Lạc Z TV" , 🟡 12:00 23/08 ⚽ Sydney Olympic vs Marconi Stallions (HD XMEN) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=38544b676d20b2f522a10ea40d4e2d15&wsABSTime=1787501803
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66h0onvqo9j/image/small" group-title="Xôi Lạc Z TV" , 🟡 12:00 23/08 ⚽ South Coast Wolves vs Western Sydney AM (BEE) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live2.edgeburstcdn.com/live/channel8.flv
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66h0onvqo9j/image/small" group-title="Xôi Lạc Z TV" , 🟡 12:00 23/08 ⚽ South Coast Wolves vs Western Sydney AM (HD BEE) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live1.quickscoreboardz.com/live/channel8.flv?wsSecret=d5ac3b9881d03ffa3a7a4fd8ae32a2b1&wsABSTime=1787501809
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/dj2ry1foo9lr1zp/image/small" group-title="Xôi Lạc Z TV" , 23:00 23/08 🥎 Anna Frey vs Ashlyn Krueger (VIC) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live2.pro2cdnlive.com/live/channel32.flv
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/dj2ry1foo9lr1zp/image/small" group-title="Xôi Lạc Z TV" , 23:00 23/08 🥎 Anna Frey vs Ashlyn Krueger (HD VIC) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live2.pro2cdnlive.com/live/channel-32.flv
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/n54ql4f8go0rvy9/image/small" group-title="Xôi Lạc Z TV" , 06:00 24/08 🥎 Coco Gauff vs Jessica Pegula (VIC) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live2.pro2cdnlive.com/live/channel32.flv
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/n54ql4f8go0rvy9/image/small" group-title="Xôi Lạc Z TV" , 06:00 24/08 🥎 Coco Gauff vs Jessica Pegula (HD VIC) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live2.pro2cdnlive.com/live/channel-32.flv
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/8yomojfoe6lq0j6/image/small" group-title="Xôi Lạc Z TV" , 08:30 24/08 🥎 Lilli Tagger vs Yulia Starodubtseva (VIC) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live2.pro2cdnlive.com/live/channel32.flv
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/team/8yomojfoe6lq0j6/image/small" group-title="Xôi Lạc Z TV" , 08:30 24/08 🥎 Lilli Tagger vs Yulia Starodubtseva (HD VIC) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live2.pro2cdnlive.com/live/channel-32.flv
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/9k82redh702qepz/image/small" group-title="Xôi Lạc Z TV" , 13:00 23/08 🏐 Nữ Đài Loan vs Nữ Iraq (HD TYSON) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://push2.m3u8delivery.com/livecdn/channel-33.flv?auth_key=3000001787458632-0-0-b1546d917a29c9f1df84d712de1c3adb
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/965mk6zt7d5jq1g/image/small" group-title="Xôi Lạc Z TV" , 15:00 23/08 🎮 Hanwha Life Esports vs T1 (MARTY) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live2.edgeburstcdn.com/live/channel30.flv
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/965mk6zt7d5jq1g/image/small" group-title="Xôi Lạc Z TV" , 15:00 23/08 🎮 Hanwha Life Esports vs T1 (HD MARTY) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://push2.m3u8delivery.com/livecdn/channel-30.flv?auth_key=3000001787458652-0-0-b66161039a08384ce3f4d22eeb7aab9a
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/965mk6zt7jezq1g/image/small" group-title="Xôi Lạc Z TV" , 17:00 23/08 🎮 BNK FearX vs Nongshim RedForce (MARTY) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live2.pro2cdnlive.com/live/channel30.flv
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/965mk6zt7jezq1g/image/small" group-title="Xôi Lạc Z TV" , 17:00 23/08 🎮 BNK FearX vs Nongshim RedForce (HD MARTY) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live2.pro2cdnlive.com/live/channel-30.flv
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/team/l5erg5efo92lm8k/image/small" group-title="Xôi Lạc Z TV" , 22:00 23/08 🎮 Team Heretics vs GIANTX (MARTY) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.morvexstream.com/
+https://live2.pro2cdnlive.com/live/channel30.flv
+#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 09:40 23/08 ⚽ Los Angeles FC vs Portland Timbers [USA MLS] [flv]
+#EXTVLCOPT:http-referrer=https://www.sptv.com/
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5362545_1.flv?auth_key=1787459136-9603-0-1ce1cbd7d88e24d12860b8983c8abcc9
+#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 09:40 23/08 ⚽ San Jose Earthquakes vs Minnesota United [USA MLS] [flv]
+#EXTVLCOPT:http-referrer=https://www.sptv.com/
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5362543_1.flv?auth_key=1787459138-9818-0-0bd02a501ef2d0d21f1d82d8816c7982
+#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 09:40 23/08 ⚽ San Diego FC vs Colorado Rapids [USA MLS] [flv]
+#EXTVLCOPT:http-referrer=https://www.sptv.com/
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5362544_1.flv?auth_key=1787459140-1044-0-172fd234e19e3a774cc6be38eb2601d8
+#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 10:00 23/08 ⚽ Cruz Azul vs Atlas [MEX D1] [flv]
+#EXTVLCOPT:http-referrer=https://www.sptv.com/
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5539976_1.flv?auth_key=1787459144-4174-0-71e421a4f56555bc113afc1b8f2d27fe
+#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 10:00 23/08 ⚽ Edgeworth Eagles vs Belmont Swansea United [Playoff] [flv]
+#EXTVLCOPT:http-referrer=https://www.sptv.com/
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5708716_1.flv?auth_key=1787459150-2743-0-92c41e52a54a9708fbc087090146b36a
+#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 10:10 23/08 ⚽ Sacramento Republic vs Phoenix Rising [USA USLC] [flv]
+#EXTVLCOPT:http-referrer=https://www.sptv.com/
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5362463_1.flv?auth_key=1787459154-5124-0-b6e4d4101f7c832d6c7f92bc106acd3b
+#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 10:15 23/08 ⚽ Colorado Springs Switchbacks vs El Paso Locomotive [USA USLC] [flv]
+#EXTVLCOPT:http-referrer=https://www.sptv.com/
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5362466_1.flv?auth_key=1787459159-9721-0-20edf73238d457a949da0fa446b940d8
+#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 11:00 23/08 ⚽ South Hobart vs Devonport City Strikers [Playoff] [flv]
+#EXTVLCOPT:http-referrer=https://www.sptv.com/
+https://livesp.zhibozhibozhibozhibo.com/sport/202_5701204_1.flv?auth_key=1787459163-8488-0-a365fb21d57de3936569e82580116645
+#EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 11:00 23/08 🏀 Forestville Eagles BC vs Gold Coast Rollers BC [ANBL] [flv]
+#EXTVLCOPT:http-referrer=https://www.sptv.com/
+https://livesp.zhibozhibozhibozhibo.com/sport/201_5718362_1.flv?auth_key=1787459168-3920-0-a2d92f00522e974f84b341a9b65ce5c9

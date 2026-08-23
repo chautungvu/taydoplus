@@ -12,7 +12,7 @@ Usage:
 Config via environment variables (all optional, defaults shown):
     SOURCE_URL   = https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv
     GROUP_TITLE  = Sự Kiện FPT PLAY
-    OUTPUT_FILE  = output/iptvviptdplus.m3u
+    OUTPUT_FILE  = iptvviptdplus.m3u
 """
 
 import os
@@ -25,7 +25,7 @@ SOURCE_URL = os.environ.get(
     "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv",
 )
 GROUP_TITLE = os.environ.get("GROUP_TITLE", "Sự Kiện FPT PLAY")
-OUTPUT_FILE = os.environ.get("OUTPUT_FILE", "output/iptvviptdplus.m3u")
+OUTPUT_FILE = os.environ.get("OUTPUT_FILE", "iptvviptdplus.m3u")
 
 GROUP_TITLE_RE = re.compile(r'group-title="([^"]*)"')
 

@@ -29,7 +29,7 @@ jobs:
         env:
           SOURCE_URL: "https://thcoban.github.io/ththethao/ttthethao.m3u"
           OUTPUT_FILE: "iptvviptdplus.m3u"
-        run: python scripts/filter_playlist.py
+        run: python scripts/filter_playlist_thethao.py
 
       - name: Commit and push if changed
         run: |

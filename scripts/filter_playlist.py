@@ -1,10 +1,16 @@
 #!/usr/bin/env python3
 """
-Fetch a remote M3U playlist and extract only the channel entries whose
-#EXTINF line has group-title="Sự Kiện FPT PLAY", then APPEND them to the
-bottom of an existing output .m3u file (the output file's own existing
-content is left untouched -- only new, not-yet-seen channels are added
-to the end).
+Fetch a remote M3U playlist, extract only the channel entries whose
+#EXTINF line has group-title="Sự Kiện FPT PLAY", and sync them into an
+existing output .m3u file.
+
+Behavior: any existing entries in the output file that belong to this same
+group-title are removed first, then the freshly fetched entries for the
+group are written in. This means channels get fully refreshed (URLs,
+names, etc. always match the latest source) instead of being skipped
+forever once a URL has been seen once. Entries belonging to OTHER groups
+(e.g. channels you added manually, or from a different script/source
+sharing the same output file) are left untouched.
 
 Usage:
     python scripts/filter_playlist.py
@@ -61,30 +67,32 @@ def parse_entries(playlist_text: str):
     return entries
 
 
+def entry_group(entry_lines):
+    """The group-title of an entry, or None if it doesn't have one."""
+    match = GROUP_TITLE_RE.search(entry_lines[0])
+    return match.group(1) if match else None
+
+
 def entry_matches(entry_lines, group_title: str) -> bool:
-    extinf_line = entry_lines[0]
-    match = GROUP_TITLE_RE.search(extinf_line)
-    return bool(match) and match.group(1) == group_title
+    return entry_group(entry_lines) == group_title
 
 
 def entry_key(entry_lines):
     """
-    A key used to detect whether an entry is already present in the output
-    file, so re-runs don't keep appending duplicate copies of the same
-    channel. Uses the stream URL (the last non-empty line of the entry,
-    which is typically the .m3u8/.ts link) since that's the unique part.
+    A key used to de-duplicate entries within a single fetch (in case the
+    source itself lists the same channel twice). Uses the stream URL (the
+    last non-empty line of the entry).
     """
     non_empty = [ln.strip() for ln in entry_lines if ln.strip() != ""]
     return non_empty[-1] if non_empty else None
 
 
-def load_existing_keys(path: str):
+def load_existing_entries(path: str):
     if not os.path.exists(path):
-        return set()
+        return []
     with open(path, "r", encoding="utf-8") as f:
         existing_text = f.read()
-    existing_entries = parse_entries(existing_text)
-    return {entry_key(e) for e in existing_entries if entry_key(e)}
+    return parse_entries(existing_text)
 
 
 def main():
@@ -101,24 +109,39 @@ def main():
     print(f"Total entries parsed: {len(entries)}")
     print(f'Entries matching group-title="{GROUP_TITLE}": {len(matched)}')
 
+    # De-duplicate matched entries by stream URL, in case the source
+    # repeats a channel.
+    seen_keys = set()
+    deduped_matched = []
+    for e in matched:
+        key = entry_key(e)
+        if key in seen_keys:
+            continue
+        seen_keys.add(key)
+        deduped_matched.append(e)
+
     os.makedirs(os.path.dirname(OUTPUT_FILE) or ".", exist_ok=True)
 
-    file_exists = os.path.exists(OUTPUT_FILE)
-    existing_keys = load_existing_keys(OUTPUT_FILE)
+    existing_entries = load_existing_entries(OUTPUT_FILE)
 
-    # Only append channels that aren't already in the file, so repeated
-    # runs don't pile up duplicate copies of the same channel.
-    new_entries = [e for e in matched if entry_key(e) not in existing_keys]
+    # Keep only existing entries that do NOT belong to the group we're
+    # refreshing (e.g. manually added channels, or channels from a
+    # different group/source sharing the same output file).
+    kept_entries = [e for e in existing_entries if not entry_matches(e, GROUP_TITLE)]
 
-    with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
-        if not file_exists:
-            f.write("#EXTM3U\n")
-        for entry_lines in new_entries:
+    removed_count = len(existing_entries) - len(kept_entries)
+    print(f'Removed {removed_count} existing entries in group-title="{GROUP_TITLE}"')
+
+    final_entries = kept_entries + deduped_matched
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write("#EXTM3U\n")
+        for entry_lines in final_entries:
             cleaned = [ln for ln in entry_lines if ln.strip() != ""]
             f.write("\n".join(cleaned) + "\n")
 
-    print(f"Appended {len(new_entries)} new entries to {OUTPUT_FILE} "
-          f"({len(matched) - len(new_entries)} already present, skipped)")
+    print(f"Wrote {len(final_entries)} total entries to {OUTPUT_FILE} "
+          f"({len(kept_entries)} kept unchanged, {len(deduped_matched)} refreshed from source)")
 
 
 if __name__ == "__main__":

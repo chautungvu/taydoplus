@@ -1,0 +1,45 @@
+name: Update FPT Play channel list
+
+on:
+  schedule:
+    # Runs every 15 minutes. GitHub Actions has no "someone viewed the raw
+    # file" event, so a frequent schedule is the closest practical
+    # equivalent to keep the file near-real-time.
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}       # allows manual runs from the Actions tab
+  repository_dispatch:        # allows triggering via the GitHub API, e.g.
+    types: [refresh-playlist] # curl -X POST .../dispatches -d '{"event_type":"refresh-playlist"}'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch and filter playlist
+        env:
+          SOURCE_URL: "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv"
+          GROUP_TITLE: "Sự Kiện FPT PLAY"
+          OUTPUT_FILE: "output/iptvviptdplus.m3u"
+        run: python scripts/filter_playlist.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/iptvviptdplus.m3u
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update FPT Play channel list [skip ci]"
+            git push
+          fi

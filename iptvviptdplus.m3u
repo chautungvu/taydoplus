@@ -665,8 +665,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10038
 https://freem3u.xyz/api/live/play.m3u8?vid=10036
 #EXTINF:-1 group-title="RADIO" tvg-id="", THANH HOA RADIO
 https://baothanhhoa.vn/ptth/radio-m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/23/slider_1787461072060.jpg", Sự Kiện 6
-https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_Q9mUTFM.jpg" group-title="Pháo Hoa TV" , 🟢 14:00 24/08 🏐 Thái Lan vs Indonesia (Tày) [hls]
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_hdpF9Rm.jpg" group-title="Pháo Hoa TV" , 17:30 25/08 🏐 Việt Nam vs Nhật Bản (KaKa) [hls]
@@ -1173,3 +1171,5 @@ https://livesp.zhibozhibozhibozhibo.com/sport/201_5686140_1.flv?auth_key=1787563
 #EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 15:00 24/08 🏀 Wuhan Shengfan Huanghe (W) vs Dalian Wentilu (W) [WNBL] [flv]
 #EXTVLCOPT:http-referrer=https://www.sptv.com/
 https://livesp.zhibozhibozhibozhibo.com/sport/201_5722500_1.flv?auth_key=1787563538-5531-0-dd59295d8982bdb9931114d93c97000c
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/23/slider_1787461072060.jpg", Sự Kiện 6
+https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8

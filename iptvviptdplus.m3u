@@ -1303,3 +1303,5 @@ https://live.inplyr.com/room/122591.m3u8
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/515530.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/anyang-8032" group-title="Bia Ôm TV" , 17:30 26/08 ⚽ Anyang vs Incheon United (NEM NƯỚNG) [flv]
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/26/nhat-ky-asean-hyundai-cup-2026-slide-thumb-6_1787711737377.jpg", Sự Kiện 2
+https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8

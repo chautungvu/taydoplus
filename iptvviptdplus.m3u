@@ -1204,5 +1204,7 @@ https://live.inplyr.com/room/168964.m3u8
 #EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260825/a2a7e4069635450dee313c2dc2fec291.png" group-title="Socolive TV" , 14:00 27/08 🏀 Quezon City vs Abra Weavers (BLV HENRY) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/428392.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/27/nhat-ky-asean-hyundai-cup-2026-slide-thumb-7_1787799049149.jpg", Event 5
-https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/27/golf-dp-world-tour-british-masters-2026---slide-thumb_1787823539063.jpg", Sự Kiện 2
+https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/27/live-vba-2026-slide-thumb_1787817321431.jpg", Event 4
+https://vips-livecdn.fptplay.net/live/media/event-04/hls_avc_v6/index.m3u8

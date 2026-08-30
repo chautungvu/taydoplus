@@ -971,12 +971,6 @@ https://live.inplyr.com/room/515530.m3u8
 #EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260828/283ff8024d0861fe944fa42ab78b9127.jpg" group-title="Socolive TV" , 16:00 30/08 🏀 Australia vs Jordan (BLV HENRY) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/428392.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/29/pickleball-world-cup-2026---slide-thumb_1788005053467.jpg", Event 2
-https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/29/pickleball-world-cup-2026---slide-thumb_1788005110705.jpg", Sự Kiện 1
-https://fbox-livecdn.fptplay.net/live/media/su-kien-01/hls_hvc/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/30/ban-tin-the-thao-24ban-tin-the-thao-24-slide-thumb_1788056907845.jpg", Sự Kiện 2
-https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_102.jpg" group-title="Pháo Hoa TV" , 22:30 30/08 ⚽ Manchester United vs Ipswich (Tày) [hls]
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_102.jpg" group-title="Pháo Hoa TV" , 22:30 30/08 ⚽ Manchester United vs Ipswich (Kevin) [hls]
@@ -1775,3 +1769,13 @@ https://cdnhls.xbdbotv.live/live/ZjE5NzE1NjI0c2hneXg3cGRhMDJkZTVhMWV2YTE4bzZ0Z2R
 https://cdnflv.xbdbotv.live/live/ZjE5NzMyNzIxc2E4bGNhNmE5OHVqZ2t0Nm13MnQ2cGF0cWRpcHFzaWVwYTNsN3libGN3dG0wODhudXU.flv
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/celta-de-vigo-36" group-title="Bia Ôm TV" , 02:30 31/08 ⚽ Celta Vigo vs Athletic Bilbao (Lẩu Ếch) [hls]
 https://cdnhls.xbdbotv.live/live/ZjE5NzMyNzIxc2E4bGNhNmE5OHVqZ2t0Nm13MnQ2cGF0cWRpcHFzaWVwYTNsN3libGN3dG0wODhudXU/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/29/pickleball-world-cup-2026---slide-thumb_1788005256938.jpg", Event 6
+https://vips-livecdn.fptplay.net/live/media/event-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/29/30_1787947722461.jpg", Sự Kiện 3
+https://fbox-livecdn.fptplay.net/live/media/su-kien-03/hls_hvc/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/29/30_1787948027308.jpg", Event 5
+https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/30/sieu-cup-qg---slide-thumb_1788064147578.jpg", Công An Hà Nội vs Công An TP.HCM (4K)
+https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/dash_hvc/index.mpd
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/08/30/sieu-cup-qg---slide-thumb_1788064147578.jpg", Công An Hà Nội vs Công An TP.HCM (FHD)
+https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8?sign=1788084802-MDc1OTczMzQ-0-4d42253792f9226a004eadabf53aece1

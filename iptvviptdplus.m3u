@@ -740,16 +740,6 @@ https://livesp.zhibozhibozhibozhibo.com/sport/202_5540017_1.flv?auth_key=1787603
 #EXTINF:-1 tvg-logo="" group-title="SP TV (China)" , 🟢 03:00 25/08 ⚽ Tigres FC(COL) vs AD Union Magdalena [COL D2] [flv]
 #EXTVLCOPT:http-referrer=https://www.sptv.com/
 https://livesp.zhibozhibozhibozhibo.com/sport/202_5610920_1.flv?auth_key=1787603228-8817-0-7bad5feaf1c2bc043f3b7723abddd69b
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/02/pickleball-world-cup-2026---slide-thumb_1788331437075.jpg", Event 2
-https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/02/pickleball-world-cup-2026---slide-thumb_1788331527755.jpg", Sự Kiện 1
-https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/02/hoi-thao-bong-ro-sinh-vien-viet-nam---vbas-2026---slide-thumb_1788364318150.jpg", Sự Kiện 4
-https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/pickleball-world-cup-2026---slide-thumb_1788404738708.jpg", Sự Kiện 6
-https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/pickleball-world-cup-2026---slide-thumb_1788404765260.jpg", Sự Kiện 7
-https://vips-livecdn.fptplay.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_18083.jpg" group-title="Pháo Hoa TV" , 🟢 15:30 03/09 ⚽ United Arab Emirates U20 vs Iraq U20 (Tiểu Mây) [hls]
 https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_37961.jpg" group-title="Pháo Hoa TV" , 🟢 16:00 03/09 ⚽ Malaysia U20 vs Australia U20 (Kevin) [hls]
@@ -1544,3 +1534,15 @@ https://live.inplyr.com/room/621887.m3u8
 #EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/football/team/https://sta.vnres.co/file/common/20260902/5a381dc8592b15f6d721b81e0f9086c8.png" group-title="Socolive TV" , 🟢 04:30 04/09 ⚽ Deportivo Recoleta vs Cerro Porteno (HÀ DUY KIÊN) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/607400.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/02/hoi-thao-bong-ro-sinh-vien-viet-nam---vbas-2026---slide-thumb_1788364318150.jpg", Sự Kiện 4
+https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/pickleball-world-cup-2026---slide-thumb_1788404738708.jpg", Sự Kiện 6
+https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/pickleball-world-cup-2026---slide-thumb_1788404765260.jpg", Sự Kiện 7
+https://vips-livecdn.fptplay.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/03_1788373649460.jpg", Sự Kiện 8
+https://vips-livecdn.fptplay.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/3_1788374608102.jpg", Event 5
+https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/02/omega-european-masters-2026---slide-thumb_1788330223078.jpg", Sự Kiện 1
+https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8

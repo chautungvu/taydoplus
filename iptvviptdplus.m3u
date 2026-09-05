@@ -1440,24 +1440,6 @@ https://cdnflv.xbdbotv.live/live/ZjE5NzEzNTg5c2hneXg3cGRhMDJkZTVhMWV2YTE4bzZ0Z2R
 https://cdnhls.xbdbotv.live/live/ZjE5NzEzNTg5c2hneXg3cGRhMDJkZTVhMWV2YTE4bzZ0Z2R5ZmJxNmVmbHdzM2l3djRpc2c0NXc0Y2Y/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477" group-title="Bia Ôm TV" , 🟢 02:00 06/09 ⚽ Villarreal vs Deportivo La Coruña (TRÚC BẠCH) [flv]
 https://cdnflv.xbdbotv.live/live/ZjE5NzMyNzAzc245bGgxZ3Npa2Q4c2Y2YWVuaGY5dnBvcWRuMWdhcWx1cDJrbnM1eWF5YTV6NWZpeHo.flv
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/04/pickleball-world-cup-2026---slide-thumb_1788495800942.jpg", Sự Kiện 3
-https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/05_1788374077112.jpg", Event 1
-https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/5_1788374949480.jpg", Event 5
-https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/thumbnail-live_1788428592148.jpg", Sự Kiện 4
-https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/02/omega-european-masters-2026---slide-thumb_1788330371378.jpg", Sự Kiện 1
-https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/thumbnail-live_1788428103101.jpg", Event 6
-https://vips-livecdn.fptplay.net/live/media/event-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/thumbnail-live_1788428749347.jpg", Sự Kiện 6
-https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/vba-playoffs-2026---slide-thumb_1788401713684.jpg", Hanoi Buffaloes vs Ho Chi Minh City Wings (4K)
-https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/dash_hvc/index.mpd
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/vba-playoffs-2026---slide-thumb_1788401713684.jpg", Hanoi Buffaloes vs Ho Chi Minh City Wings (FHD)
-https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8?sign=1788616116-MDc1OTczMzQ-0-fe986e363b16c0aa77bceda46a21df3a
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/INTER-90-x-90-1024x1024.png" group-title="Pháo Hoa TV" , 06:30 06/09 ⚽ Inter Miami vs Atlanta Utd (Chim Nhỏ) [hls]
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_4xNC98N.jpg" group-title="Pháo Hoa TV" , 17:30 06/09 🏐 Nhật Bản vs Bahrain (KaKa) [hls]
@@ -2167,3 +2149,21 @@ https://live.inplyr.com/room/168964.m3u8
 #EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260904/020385ad03d5c7146bb7d08f1bf666ed.png" group-title="Socolive TV" , 17:30 06/09 🏀 MoraBanc Andorra (And) vs Barcelona (Esp) (A CHÈ) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/356042.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/04/pickleball-world-cup-2026---slide-thumb_1788495800942.jpg", Sự Kiện 3
+https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/05_1788374077112.jpg", Event 1
+https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/5_1788374949480.jpg", Event 5
+https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/thumbnail-live_1788428592148.jpg", Sự Kiện 4
+https://vips-livecdn.fptplay.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/02/omega-european-masters-2026---slide-thumb_1788330371378.jpg", Sự Kiện 1
+https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/thumbnail-live_1788428103101.jpg", Event 6
+https://vips-livecdn.fptplay.net/live/media/event-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/thumbnail-live_1788428749347.jpg", Sự Kiện 6
+https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/vba-playoffs-2026---slide-thumb_1788401713684.jpg", Hanoi Buffaloes vs Ho Chi Minh City Wings (4K)
+https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/dash_hvc/index.mpd
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/03/vba-playoffs-2026---slide-thumb_1788401713684.jpg", Hanoi Buffaloes vs Ho Chi Minh City Wings (FHD)
+https://vips-livecdn.fptplay.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8?sign=1788616116-MDc1OTczMzQ-0-fe986e363b16c0aa77bceda46a21df3a

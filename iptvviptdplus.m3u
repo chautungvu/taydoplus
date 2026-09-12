@@ -1691,16 +1691,6 @@ https://live.inplyr.com/room/515530.m3u8
 #EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260911/012472ba2ac6227ec146883ec9fb10ae.png" group-title="Socolive TV" , 08:00 13/09 🏀 Iran vs Jordan (BLV HENRY) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/428392.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/10/12_1788977695800.jpg", Event 3
-https://vips-livecdn.fptplay.net/live/media/event-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/11/12_1789062753057.jpg", Event 5
-https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/09/thumbnail-live_1788941024775.jpg", Sự Kiện 7
-https://vips-livecdn.fptplay.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/10/slide-thumb_1789021350648.jpg", Sự Kiện 5
-https://vips-livecdn.fptplay.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/09/slide-thumb_1788938466772.jpg", Sự Kiện 6
-https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/33ed11308f92ba95d1340a0202c033b5.png" group-title="Vua Sân Cỏ TV" , 🟢 23:15 12/09 ⚽ Bristol City Women vs Newcastle Women (Nhà Đài) 
 https://station1-global.ebaclofen.org/live/69bfc5cb6f69ceb80bffbecd2fe15da2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/33ed11308f92ba95d1340a0202c033b5.png" group-title="Vua Sân Cỏ TV" , 🟢 * 23:15 12/09 ⚽ Bristol City Women vs Newcastle Women (18+) 
@@ -3291,3 +3281,7 @@ https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa2
 #EXTINF:-1 tvg-logo="https://khandai1.link/media/teams/logos/Al-Khaleej_FC_Logo.svg.webp" group-title="Khán Đài TV" , 01:00 13/09 ⚽ Al Khaleej vs Al Nassr (Văn Minh) [hls] [geo] 
 #EXTVLCOPT:http-referrer=https://khandai1.link/
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/09/slide-thumb_1788938466772.jpg", Sự Kiện 6
+https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/11/slide-thumb_1789094512366.jpg", Sự Kiện 2
+https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8

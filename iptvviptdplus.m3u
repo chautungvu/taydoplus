@@ -1489,8 +1489,6 @@ https://playback.livetl001.com/live/6a5b13ceb36a14387baeddaa.m3u8
 https://playback.livetl001.com/live/6a5b13ceb36a14387baeddaa.flv
 #EXTINF:-1 tvg-logo="https://static.sportsfeed.pro/football/team/957bdc50c307e2a9b526b34b3792da1a.png" group-title="Gà Vàng TV" , 🟡 02:00 13/09 ⚽ Sunderland vs Arsenal ( Jack97) [hls]
 https://playback.livetl001.com/live/6a9527d0d9be608784fce9c9.m3u8
-#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/11/slide-thumb_1789094512366.jpg", Sự Kiện 2
-https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/220abfadf4c617ac4499a449f24e343e.png" group-title="Vua Sân Cỏ TV" , 🟢 03:30 13/09 ⚽ Orsomarso (w) vs Independiente Santa Fe (W) (Nhà Đài) 
 https://station1-global.ebaclofen.org/live/dff4f5af7212b7be7b5881f911ecd6cb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/220abfadf4c617ac4499a449f24e343e.png" group-title="Vua Sân Cỏ TV" , 🟢 * 03:30 13/09 ⚽ Orsomarso (w) vs Independiente Santa Fe (W) (18+) 
@@ -2713,3 +2711,5 @@ https://live.inplyr.com/room/168964.m3u8
 #EXTINF:-1 tvg-logo="https://socolivep.cv/wp-content/uploads/truc-tiep/logos/basketball/team/https://sta.vnres.co/file/common/20260911/bf51ab354f6dbc1b27f2d9691dde9d1e.png" group-title="Socolive TV" , 11:00 13/09 🏀 Chinese Taipei vs Qatar (HUNTER) [geo]
 #EXTVLCOPT:http-referrer=https://socolivep.cv/
 https://live.inplyr.com/room/558264.m3u8
+#EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/09/11/slide-thumb_1789094512366.jpg", Sự Kiện 2
+https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
